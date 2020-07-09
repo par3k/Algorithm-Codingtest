@@ -1,6 +1,6 @@
 import sys
 
-sys.stdin = open("../input.txt", "rt")
+sys.stdin = open("/Users/alex/Documents/GitHub/codingtest/input.txt", "rt")
 n, m = list(map(int, input().split()))
 
 cnt = [0] * (n+m+3)
