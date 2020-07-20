@@ -1,0 +1,30 @@
+a = ("I eat %d apples." %3)
+print(a)
+print()
+b = ("I eat %s apples." %"five")
+print(b)
+print()
+num = 5
+c = ("I eat %d apples." %num)
+print(c)
+print()
+number = 10
+day = "three"
+d = ("I ate %d apples. so i was sick for %s days." %(number,day))
+print(d)
+print()
+e = ("I have %s apples." %3)
+f = ("Rate is %s." %3.234)
+print(e)
+print(f)
+print()
+a = ("Error is %d%%" %98)
+print(a)
+print(a.find('i'))
+print(a.find('z'))
+print()
+b = "Life is too short"
+print(b.split())
+c = "a:b:c:d"
+print(c.split(':'))
+print()
