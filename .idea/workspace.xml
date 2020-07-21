@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf8a75fd-1e37-4738-9eff-eb8335fce640" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/section 2/6번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section 2/7번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section 2/8번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theory/01.slicing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theory/02.formatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theory/탐색/깊이 우선 탐색(dfs).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theory/탐색/단순탐색.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theory/탐색/이진탐색.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section 2/1번.py" beforeDir="false" afterPath="$PROJECT_DIR$/section 2/1번.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/버블정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory/버블정렬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/자료구조 1일차.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory/자료구조 1일차.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/자료구조 2일차.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory/자료구조 2일차.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/자료구조 3일차.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory/자료구조 3일차.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/재귀.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory/재귀.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/하노이의탑.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory/하노이의탑.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/자료구조 1일차.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/자료구조 2일차.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/자료구조 3일차.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +38,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/theory/탐색" />
       <recent name="$PROJECT_DIR$/theory" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.7번">
-    <configuration name="01.slicing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.02. 이진탐색">
+    <configuration name="01. 단순탐색" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +60,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/theory/01.slicing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/theory/탐색/01. 단순탐색.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02. 이진탐색" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/theory/탐색" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/theory/탐색/02. 이진탐색.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +104,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/theory/02.formatting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/theory/Do it Python/02.formatting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,35 +157,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codingtest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/section 2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/section 2/ex.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02. 이진탐색" />
+        <item itemvalue="Python.01. 단순탐색" />
         <item itemvalue="Python.7번" />
         <item itemvalue="Python.8번" />
         <item itemvalue="Python.02.formatting" />
-        <item itemvalue="Python.01.slicing" />
-        <item itemvalue="Python.ex" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +179,7 @@
       <updated>1594308996235</updated>
       <workItem from="1594309004904" duration="53000" />
       <workItem from="1594365225572" duration="8744000" />
-      <workItem from="1594889340544" duration="4524000" />
+      <workItem from="1594889340544" duration="8510000" />
     </task>
     <servers />
   </component>
@@ -196,22 +191,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="0" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1595152124777" />
-    <state width="820" height="245" key="GridCell.Tab.0.bottom" timestamp="1595240887208">
+    <state width="713" height="245" key="GridCell.Tab.0.bottom" timestamp="1595317884723">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="820" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595240887208" />
-    <state width="820" height="245" key="GridCell.Tab.0.center" timestamp="1595240887207">
+    <state width="713" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595317884723" />
+    <state width="713" height="245" key="GridCell.Tab.0.center" timestamp="1595317884722">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="820" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1595240887207" />
-    <state width="820" height="245" key="GridCell.Tab.0.left" timestamp="1595240887206">
+    <state width="713" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1595317884722" />
+    <state width="713" height="245" key="GridCell.Tab.0.left" timestamp="1595317884722">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="820" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1595240887206" />
-    <state width="820" height="245" key="GridCell.Tab.0.right" timestamp="1595240887207">
+    <state width="713" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1595317884722" />
+    <state width="713" height="245" key="GridCell.Tab.0.right" timestamp="1595317884723">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="820" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1595240887207" />
+    <state width="713" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1595317884723" />
     <state x="214" y="168" key="RollbackChangesDialog" timestamp="1595240024226">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -229,5 +224,6 @@
     <SUITE FILE_PATH="coverage/codingtest$02_formatting.coverage" NAME="02.formatting Coverage Results" MODIFIED="1595152868540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory" />
     <SUITE FILE_PATH="coverage/codingtest$7.coverage" NAME="7번 Coverage Results" MODIFIED="1595240887199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/section 2" />
     <SUITE FILE_PATH="coverage/codingtest$5.coverage" NAME="5번 Coverage Results" MODIFIED="1594309049971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/section 2" />
+    <SUITE FILE_PATH="coverage/codingtest$.coverage" NAME="이진탐색 Coverage Results" MODIFIED="1595317884712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/탐색" />
   </component>
 </project>
