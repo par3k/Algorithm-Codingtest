@@ -6,14 +6,17 @@
 첫번째거랑 두번째꺼랑 비교해서 두번째께 더 작으면 첫번째거랑 자리를 바꾼다.
 '''
 
-arr  = [6, 5, 4, 3, 2, 1]
+arr  = [6, 5, 4, 3, 2, 1, 7, 9, 10, 8]
 print(arr)
+
 
 def bubbleSort(arr):
     for i in range(0, len(arr)-1):
-        for j in range(0, len(arr)-1-i):
-            arr[j], arr[j+1] = arr[j+1], arr[j]
-            print(arr)
+        for j in range(0, len(arr)-i-1):
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+                print(arr)
     return arr
+
 
 print('결과 : ', bubbleSort(arr))
