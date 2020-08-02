@@ -2,6 +2,7 @@
 
 import sys
 sys.stdin = open("/Users/alex/Documents/GitHub/codingtest/input.txt", "rt")
+
 n, k = map(int, input().split())
 count = 0
 
