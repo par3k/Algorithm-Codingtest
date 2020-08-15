@@ -4,7 +4,7 @@ T = int(input())
 
 people = []
 
-for _ in range(1,T+1):
+for _ in range(1, T+1):
     w, h = map(int, input().split())
     people.append((w, h))
 
