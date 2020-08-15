@@ -1,11 +1,15 @@
 # 분해합
 
 n = int(input())
-ans = 0
+ans = []
 
-for i in range(1, n+1) :
-    if (i + sum(map(int, str(i)))) == n:
-        ans = i
-        break
+for i in range(1, n+1):
+    if n == i + sum(map(int, str(i))):
+        ans.append(i)
+        print(ans)
+if len(ans) == 0:
+    print('0')
+else:
+    print(min(ans))
 
-print(ans)
+
