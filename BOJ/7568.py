@@ -8,6 +8,7 @@ for _ in range(1, T+1):
     w, h = map(int, input().split())
     people.append((w, h))
 
+
 for i in people:
     rank = 1
     for j in people:
