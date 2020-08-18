@@ -1,14 +1,17 @@
 # DFS와 BFS
+import sys
 from collections import deque
 
-node, edge, start = map(int, input().split())
+node, edge, start = map(int, sys.stdin.readline().split())
 graph = [[] for _ in range(node + 1)]
 
 
 for _ in range(edge):
-    a, b = map(int, input().split())
+    a, b = map(int, sys.stdin.readline().split())
     graph[a].append(b)
+    graph[a].sort()
     graph[b].append(a)
+    graph[b].sort()
 
 dfs_visited = [False] * (node + 1)
 
