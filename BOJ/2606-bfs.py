@@ -1,5 +1,4 @@
 # 바이러스 - dfs
-
 from collections import deque
 
 node = int(input())
@@ -14,19 +13,21 @@ for _ in range(edge):
 
 visited = [False] * (node + 1)
 
+
 def bfs():
     cnt = 0
-    queue = deque([1])
+    will_visit = deque([1])
 
-    while queue:
-        v = queue.popleft()
-
-        if visited[v] == False:
-            visited[v] = True
+    while will_visit:
+        start = will_visit.popleft()
+        if visited[start] == False:
+            visited[start] = True
             cnt += 1
 
-            for i in graph[v]:
-                queue.append(i)
+            for i in graph[start]:
+                if visited[i] == False:
+                    will_visit.append(i)
+
     return cnt - 1
 
 print(bfs())
