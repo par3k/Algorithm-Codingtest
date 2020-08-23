@@ -12,9 +12,6 @@ for _ in range(edge):
     graph[b].sort()
 
 
-visited = [False] * (node + 1)
-
-
 def bfs(graph, start, visited):
     visited[start] = True
     queue = deque([start])
@@ -27,5 +24,7 @@ def bfs(graph, start, visited):
             if visited[i] == False:
                 queue.append(i)
                 visited[i] = True
+
+visited = [False] * (node + 1)
 
 bfs(graph, start, visited)
