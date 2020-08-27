@@ -1,30 +1,33 @@
 # 유기농 배추
 
-dy = [0, 0, 1, -1]
+import sys
+sys.setrecursionlimit(100000)
+input = lambda : sys.stdin.readline().rstrip()
+
 dx = [-1, 1, 0, 0]
+dy = [0, 0, -1, 1]
 
 
-def dfs (y, x):
-    visited[y][x] = True
+def dfs(x, y):
+    visited[x][y] = True
 
     for i in range(4):
-        ny = y + dy[i]
-        nx = x + dx[i]
+        nx, ny = x + dx[i], y + dy[i]
 
-        if 0 <= ny < n and 0 <= nx < m:
-            if not visited[ny][nx] and graph[ny][nx] == 1:
-                dfs(ny, nx)
+        if 0 <= nx < n and 0 <= ny < m:
+            if graph[nx][ny] == 1 and not visited[nx][ny]:
+                dfs(nx, ny)
 
 
 for _ in range(int(input())):
-    m, n, k = map(int, input().split())
+    n, m, k = map(int, input().split())
     graph = [[0] * (m+1) for _ in range(n+1)]
     visited = [[False] * (m+1) for _ in range(n+1)]
     cnt = 0
 
     for _ in range(k):
         x, y = map(int, input().split())
-        graph[y][x] = 1
+        graph[x][y] = 1
 
     for a in range(n):
         for b in range(m):
@@ -33,7 +36,3 @@ for _ in range(int(input())):
                 dfs(a, b)
 
     print(cnt)
-
-
-
-
