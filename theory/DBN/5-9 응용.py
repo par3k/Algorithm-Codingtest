@@ -1,3 +1,5 @@
+# 인접 리스트 방식으로 구현
+
 from collections import deque
 
 node, edge, start = map(int, input().split())

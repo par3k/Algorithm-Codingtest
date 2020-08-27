@@ -25,6 +25,6 @@ graph = [
 ]
 
 
-visited = [False] * 9
+visited = [False] * int(len(graph))
 
 dfs(graph, 1, visited)
