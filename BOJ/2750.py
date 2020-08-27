@@ -1,6 +1,7 @@
 # 수 정렬하기
-
 import sys
 
-ans = sorted([int(sys.stdin.readline().rstrip()) for i in range(int(sys.stdin.readline().rstrip()))])
+input = lambda : sys.stdin.readline().rstrip()
+
+ans = sorted([int(input()) for i in range(int(input()))])
 print(*ans, sep='\n')
