@@ -1,6 +1,3 @@
-# Algorithm-Codingtest
-Study for Coding Test
-
 # Python Competitive Programming Team Notes
 * This Repo. is a python library for Problem solving competition.
 * when you need an implementation of a specific algorithm, you can find it.
