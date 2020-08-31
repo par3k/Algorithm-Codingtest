@@ -7,7 +7,6 @@ tree = list(map(int, input().split()))
 
 result = 0
 
-
 def binary_search(arr, target, start, end):
     while start <= end:
         total = 0
