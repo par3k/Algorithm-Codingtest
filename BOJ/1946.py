@@ -1,3 +1,5 @@
+# 신입 사원
+
 import sys
 input = lambda : sys.stdin.readline().rstrip()
 
