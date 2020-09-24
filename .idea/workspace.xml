@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf8a75fd-1e37-4738-9eff-eb8335fce640" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ/1991.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/2504.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/6603.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/1011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/1912.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/1976.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,52 +48,8 @@
       <recent name="$PROJECT_DIR$/theory" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2504">
-    <configuration name="10-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codingtest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/theory/DBN" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/theory/DBN/10-1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="10-4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codingtest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/theory/DBN" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/theory/DBN/10-4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="11724-unionfind" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1912">
+    <configuration name="1011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +62,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/11724-unionfind.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/1011.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1780" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1912" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +84,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/1780.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/1912.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1976" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/1976.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2138" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/2138.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1912" />
+        <item itemvalue="Python.1011" />
+        <item itemvalue="Python.2138" />
+        <item itemvalue="Python.1976" />
         <item itemvalue="Python.2504" />
-        <item itemvalue="Python.1780" />
-        <item itemvalue="Python.11724-unionfind" />
-        <item itemvalue="Python.10-4" />
-        <item itemvalue="Python.10-1" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +198,7 @@
       <workItem from="1599192348600" duration="15867000" />
       <workItem from="1599616731023" duration="67136000" />
       <workItem from="1600397334025" duration="6407000" />
-      <workItem from="1600654858158" duration="13443000" />
+      <workItem from="1600654858158" duration="23326000" />
     </task>
     <servers />
   </component>
@@ -211,46 +211,46 @@
     </state>
     <state x="0" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1598429343016" />
     <state x="0" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-270.-1057.1920.1057@0.23.1440.877" timestamp="1596455076376" />
-    <state width="849" height="277" key="GridCell.Tab.0.bottom" timestamp="1600763391460">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="607" height="277" key="GridCell.Tab.0.bottom" timestamp="1600940960145">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1070" height="245" key="GridCell.Tab.0.bottom/-1112.23.1112.811/0.23.1440.877@0.23.1440.877" timestamp="1596513289547" />
     <state width="1398" height="234" key="GridCell.Tab.0.bottom/-1194.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1599885352594" />
-    <state width="626" height="277" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600750893891" />
-    <state width="849" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1600763391460" />
+    <state width="607" height="277" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600940960145" />
+    <state width="704" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1600820702447" />
     <state width="1070" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877/-270.-1057.1920.1057@0.23.1440.877" timestamp="1596464006943" />
     <state width="888" height="269" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600397331288" />
-    <state width="888" height="269" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1600012118989" />
-    <state width="849" height="277" key="GridCell.Tab.0.center" timestamp="1600763391459">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="785" height="277" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1600820600319" />
+    <state width="607" height="277" key="GridCell.Tab.0.center" timestamp="1600940960143">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1070" height="245" key="GridCell.Tab.0.center/-1112.23.1112.811/0.23.1440.877@0.23.1440.877" timestamp="1596513289546" />
     <state width="1398" height="234" key="GridCell.Tab.0.center/-1194.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1599885352593" />
-    <state width="626" height="277" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600750893890" />
-    <state width="849" height="277" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1600763391459" />
+    <state width="607" height="277" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600940960143" />
+    <state width="704" height="277" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1600820702446" />
     <state width="1070" height="245" key="GridCell.Tab.0.center/0.23.1440.877/-270.-1057.1920.1057@0.23.1440.877" timestamp="1596464006941" />
     <state width="888" height="269" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1600397331287" />
-    <state width="888" height="269" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1600012118989" />
-    <state width="849" height="277" key="GridCell.Tab.0.left" timestamp="1600763391458">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="785" height="277" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1600820600318" />
+    <state width="607" height="277" key="GridCell.Tab.0.left" timestamp="1600940960142">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1070" height="245" key="GridCell.Tab.0.left/-1112.23.1112.811/0.23.1440.877@0.23.1440.877" timestamp="1596513289546" />
     <state width="1398" height="234" key="GridCell.Tab.0.left/-1194.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1599885352592" />
-    <state width="626" height="277" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600750893890" />
-    <state width="849" height="277" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1600763391458" />
+    <state width="607" height="277" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600940960142" />
+    <state width="704" height="277" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1600820702446" />
     <state width="1070" height="245" key="GridCell.Tab.0.left/0.23.1440.877/-270.-1057.1920.1057@0.23.1440.877" timestamp="1596464006941" />
     <state width="888" height="269" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1600397331287" />
-    <state width="888" height="269" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1600012118988" />
-    <state width="849" height="277" key="GridCell.Tab.0.right" timestamp="1600763391460">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="785" height="277" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1600820600318" />
+    <state width="607" height="277" key="GridCell.Tab.0.right" timestamp="1600940960144">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1070" height="245" key="GridCell.Tab.0.right/-1112.23.1112.811/0.23.1440.877@0.23.1440.877" timestamp="1596513289547" />
     <state width="1398" height="234" key="GridCell.Tab.0.right/-1194.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1599885352594" />
-    <state width="626" height="277" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600750893891" />
-    <state width="849" height="277" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1600763391460" />
+    <state width="607" height="277" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600940960144" />
+    <state width="704" height="277" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1600820702447" />
     <state width="1070" height="245" key="GridCell.Tab.0.right/0.23.1440.877/-270.-1057.1920.1057@0.23.1440.877" timestamp="1596464006942" />
     <state width="888" height="269" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1600397331288" />
-    <state width="888" height="269" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1600012118989" />
+    <state width="785" height="277" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1600820600319" />
     <state width="642" height="301" key="GridCell.Tab.1.bottom" timestamp="1599031164840">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -307,193 +307,197 @@
     <state x="334" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-270.-1057.1920.1057@0.23.1440.877" timestamp="1596372105306" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/codingtest$Toss.coverage" NAME="Toss Coverage Results" MODIFIED="1596331939086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codingtest$14681.coverage" NAME="14681 Coverage Results" MODIFIED="1596347028756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$ex.coverage" NAME="ex Coverage Results" MODIFIED="1594890074606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/section 2" />
-    <SUITE FILE_PATH="coverage/codingtest$1138.coverage" NAME="1138 Coverage Results" MODIFIED="1599709381858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$1343.coverage" NAME="1343 Coverage Results" MODIFIED="1600250398345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$2447.coverage" NAME="2447 Coverage Results" MODIFIED="1597213184394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$9_2.coverage" NAME="9-2 Coverage Results" MODIFIED="1599925094867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$1193.coverage" NAME="1193 Coverage Results" MODIFIED="1597391125481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$6_1.coverage" NAME="6-1 Coverage Results" MODIFIED="1598283117447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
-    <SUITE FILE_PATH="coverage/codingtest$2156.coverage" NAME="2156 Coverage Results" MODIFIED="1599616732065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$2748.coverage" NAME="2748 Coverage Results" MODIFIED="1599270781033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$2579.coverage" NAME="2579 Coverage Results" MODIFIED="1599469201877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$1316.coverage" NAME="1316 Coverage Results" MODIFIED="1596632655745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$3_1.coverage" NAME="3-1 Coverage Results" MODIFIED="1597207070662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
-    <SUITE FILE_PATH="coverage/codingtest$11654.coverage" NAME="11654 Coverage Results" MODIFIED="1596454442684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$2775.coverage" NAME="2775 Coverage Results" MODIFIED="1596899103926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$1157.coverage" NAME="1157 Coverage Results" MODIFIED="1596516752147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$1085.coverage" NAME="1085 Coverage Results" MODIFIED="1597039295680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$2869.coverage" NAME="2869 Coverage Results" MODIFIED="1596785264683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$10250.coverage" NAME="10250 Coverage Results" MODIFIED="1596788652489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$8_9.coverage" NAME="8-9 Coverage Results" MODIFIED="1599197235632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
-    <SUITE FILE_PATH="coverage/codingtest$8_3.coverage" NAME="8-3 Coverage Results" MODIFIED="1599192879254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$2667.coverage" NAME="2667 Coverage Results" MODIFIED="1598514882235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$2750.coverage" NAME="2750 Coverage Results" MODIFIED="1598516531000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$10814.coverage" NAME="10814 Coverage Results" MODIFIED="1598430511257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$2751.coverage" NAME="2751 Coverage Results" MODIFIED="1598426112059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$8_4.coverage" NAME="8-4 Coverage Results" MODIFIED="1598699282631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$10818.coverage" NAME="10818 Coverage Results" MODIFIED="1596350332426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$5_9_.coverage" NAME="5-9 응용 Coverage Results" MODIFIED="1597907755227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
-    <SUITE FILE_PATH="coverage/codingtest$11729.coverage" NAME="11729 Coverage Results" MODIFIED="1597213260449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$8958.coverage" NAME="8958 Coverage Results" MODIFIED="1596370864745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$10996.coverage" NAME="10996 Coverage Results" MODIFIED="1596348882262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$6_7.coverage" NAME="6-7 Coverage Results" MODIFIED="1598361298697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
-    <SUITE FILE_PATH="coverage/codingtest$14659.coverage" NAME="14659 Coverage Results" MODIFIED="1600241543056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$1300.coverage" NAME="1300 Coverage Results" MODIFIED="1598865566245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$6_2.coverage" NAME="6-2 Coverage Results" MODIFIED="1598336636218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$2606_bfs.coverage" NAME="2606-bfs Coverage Results" MODIFIED="1597906866229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$11054.coverage" NAME="11054 Coverage Results" MODIFIED="1599616421451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$1080.coverage" NAME="1080 Coverage Results" MODIFIED="1599707587996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$15903.coverage" NAME="15903 Coverage Results" MODIFIED="1599996018332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$6_6.coverage" NAME="6-6 Coverage Results" MODIFIED="1598341803571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
-    <SUITE FILE_PATH="coverage/codingtest$03__.coverage" NAME="03. 버블정렬 Coverage Results" MODIFIED="1595327622834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/탐색" />
     <SUITE FILE_PATH="coverage/codingtest$7_1.coverage" NAME="7-1 Coverage Results" MODIFIED="1598617465448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$2847.coverage" NAME="2847 Coverage Results" MODIFIED="1599792242731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$12015.coverage" NAME="12015 Coverage Results" MODIFIED="1599032792165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$9_3.coverage" NAME="9-3 Coverage Results" MODIFIED="1599986203978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
-    <SUITE FILE_PATH="coverage/codingtest$1758.coverage" NAME="1758 Coverage Results" MODIFIED="1600396867532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$5_10.coverage" NAME="5-10 Coverage Results" MODIFIED="1598164585327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$10989.coverage" NAME="10989 Coverage Results" MODIFIED="1598426974237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$4_4.coverage" NAME="4-4 Coverage Results" MODIFIED="1597666540443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
-    <SUITE FILE_PATH="coverage/codingtest$2504.coverage" NAME="2504 Coverage Results" MODIFIED="1600763391444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$5_2.coverage" NAME="5-2 Coverage Results" MODIFIED="1597669659058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
-    <SUITE FILE_PATH="coverage/codingtest$7.coverage" NAME="7번 Coverage Results" MODIFIED="1595240887199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/section 2" />
     <SUITE FILE_PATH="coverage/codingtest$1152.coverage" NAME="1152 Coverage Results" MODIFIED="1596615439089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$8_8.coverage" NAME="8-8 Coverage Results" MODIFIED="1599192643291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$4963.coverage" NAME="4963 Coverage Results" MODIFIED="1600493506066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$1339.coverage" NAME="1339 Coverage Results" MODIFIED="1599704267638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$1912.coverage" NAME="1912 Coverage Results" MODIFIED="1600940960135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$1783.coverage" NAME="1783 Coverage Results" MODIFIED="1599717799447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$2437.coverage" NAME="2437 Coverage Results" MODIFIED="1599833532875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$11724_unionfind.coverage" NAME="11724-unionfind Coverage Results" MODIFIED="1600747480837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$2292.coverage" NAME="2292 Coverage Results" MODIFIED="1596704285082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$8_10.coverage" NAME="8-10 Coverage Results" MODIFIED="1599199136505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
-    <SUITE FILE_PATH="coverage/codingtest$15649.coverage" NAME="15649 Coverage Results" MODIFIED="1598515542740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$10_1.coverage" NAME="10-1 Coverage Results" MODIFIED="1600669552369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$10_4.coverage" NAME="10-4 Coverage Results" MODIFIED="1600672194032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$14916.coverage" NAME="14916 Coverage Results" MODIFIED="1600239114286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$2562.coverage" NAME="2562 Coverage Results" MODIFIED="1596351995614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$1697.coverage" NAME="1697 Coverage Results" MODIFIED="1600492178348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$1002.coverage" NAME="1002 Coverage Results" MODIFIED="1597138933646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$7_4.coverage" NAME="7-4 Coverage Results" MODIFIED="1598627295897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
-    <SUITE FILE_PATH="coverage/codingtest$15652.coverage" NAME="15652 Coverage Results" MODIFIED="1598971619251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$1011.coverage" NAME="1011 Coverage Results" MODIFIED="1600928258195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$11720.coverage" NAME="11720 Coverage Results" MODIFIED="1596455178495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$10162.coverage" NAME="10162 Coverage Results" MODIFIED="1599702000204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$2606.coverage" NAME="2606-dfs Coverage Results" MODIFIED="1597736099256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$3_2.coverage" NAME="3-2 Coverage Results" MODIFIED="1597208410717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$1920.coverage" NAME="1920 Coverage Results" MODIFIED="1598692901246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$7576____.coverage" NAME="7576 - 내가 푼것 Coverage Results" MODIFIED="1598422246858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$1041.coverage" NAME="1041 Coverage Results" MODIFIED="1600152933064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$2872.coverage" NAME="2872 Coverage Results" MODIFIED="1600399425507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$6_4.coverage" NAME="6-4 Coverage Results" MODIFIED="1598341040014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$2523.coverage" NAME="2523 Coverage Results" MODIFIED="1596348197594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$9095.coverage" NAME="9095 Coverage Results" MODIFIED="1599201620780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$.coverage" NAME="재귀 Coverage Results" MODIFIED="1595327766722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory" />
-    <SUITE FILE_PATH="coverage/codingtest$2908.coverage" NAME="2908 Coverage Results" MODIFIED="1596616510821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$2675.coverage" NAME="2675 Coverage Results" MODIFIED="1596513608224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$8_1.coverage" NAME="8-1 Coverage Results" MODIFIED="1598696735334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$2178.coverage" NAME="2178 Coverage Results" MODIFIED="1598246299007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$15596.coverage" NAME="15596 Coverage Results" MODIFIED="1596371736494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$7_4_set__.coverage" NAME="7-4 set()함수 Coverage Results" MODIFIED="1598629056141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$7570.coverage" NAME="7570 Coverage Results" MODIFIED="1600056721184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$5_9.coverage" NAME="5-9 Coverage Results" MODIFIED="1598158759868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
-    <SUITE FILE_PATH="coverage/codingtest$5_4.coverage" NAME="5-4 Coverage Results" MODIFIED="1597670077694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$1202.coverage" NAME="1202 Coverage Results" MODIFIED="1599886651179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$1018.coverage" NAME="1018 Coverage Results" MODIFIED="1598936169883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$1712.coverage" NAME="1712 Coverage Results" MODIFIED="1596694544459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$1931.coverage" NAME="1931 Coverage Results" MODIFIED="1597215429929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$02_formatting.coverage" NAME="02.formatting Coverage Results" MODIFIED="1595152868540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory" />
-    <SUITE FILE_PATH="coverage/codingtest$2753.coverage" NAME="2753 Coverage Results" MODIFIED="1596346552721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$1065.coverage" NAME="1065 Coverage Results" MODIFIED="1596454144745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$8_6.coverage" NAME="8-6 Coverage Results" MODIFIED="1599147996523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$5.coverage" NAME="5번 Coverage Results" MODIFIED="1594309049971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/section 2" />
-    <SUITE FILE_PATH="coverage/codingtest$2581.coverage" NAME="2581 Coverage Results" MODIFIED="1596899154286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$11047.coverage" NAME="11047 Coverage Results" MODIFIED="1597213691287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$1904.coverage" NAME="1904 Coverage Results" MODIFIED="1599270830339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$10816.coverage" NAME="10816 Coverage Results" MODIFIED="1598715689716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$4153.coverage" NAME="4153 Coverage Results" MODIFIED="1597042095486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$5585.coverage" NAME="5585 Coverage Results" MODIFIED="1599200897701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$11497.coverage" NAME="11497 Coverage Results" MODIFIED="1600012118955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$11399.coverage" NAME="11399 Coverage Results" MODIFIED="1597216087653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$15650.coverage" NAME="15650 Coverage Results" MODIFIED="1598970345805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$8_7.coverage" NAME="8-7 Coverage Results" MODIFIED="1599188765460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$2941.coverage" NAME="2941 Coverage Results" MODIFIED="1596632556911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$3_4.coverage" NAME="3-4 Coverage Results" MODIFIED="1597211177990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
-    <SUITE FILE_PATH="coverage/codingtest$4_2.coverage" NAME="4-2 Coverage Results" MODIFIED="1597285216438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$11501.coverage" NAME="11501 Coverage Results" MODIFIED="1600328347592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$1260.coverage" NAME="1260 Coverage Results" MODIFIED="1597736322148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$11651.coverage" NAME="11651 Coverage Results" MODIFIED="1598431052803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$10844.coverage" NAME="10844 Coverage Results" MODIFIED="1599490866642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$03____1_.coverage" NAME="03. 버블정렬 (1) Coverage Results" MODIFIED="1595391360108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/Youtube" />
-    <SUITE FILE_PATH="coverage/codingtest$13305.coverage" NAME="13305 Coverage Results" MODIFIED="1599794288111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$5622.coverage" NAME="5622 Coverage Results" MODIFIED="1596616939505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$9009.coverage" NAME="9009 Coverage Results" MODIFIED="1600326443745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$1929.coverage" NAME="1929 Coverage Results" MODIFIED="1597038401986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$4673.coverage" NAME="4673 Coverage Results" MODIFIED="1596374890941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$1436.coverage" NAME="1436 Coverage Results" MODIFIED="1598933973886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$5543.coverage" NAME="5543 Coverage Results" MODIFIED="1596347629683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$2805.coverage" NAME="2805 Coverage Results" MODIFIED="1598695231277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$15904.coverage" NAME="15904 Coverage Results" MODIFIED="1599810067080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$5_7.coverage" NAME="5-7 Coverage Results" MODIFIED="1597672102355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
-    <SUITE FILE_PATH="coverage/codingtest$2110.coverage" NAME="2110 Coverage Results" MODIFIED="1598772279823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$7_2.coverage" NAME="7-2 Coverage Results" MODIFIED="1598624108925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
-    <SUITE FILE_PATH="coverage/codingtest$2816.coverage" NAME="2816 Coverage Results" MODIFIED="1598972094275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$14720.coverage" NAME="14720 Coverage Results" MODIFIED="1600248933475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$6_3_.coverage" NAME="6-3 응용 Coverage Results" MODIFIED="1598340466236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$15649___python.coverage" NAME="15649 - python Coverage Results" MODIFIED="1598970550202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$1780.coverage" NAME="1780 Coverage Results" MODIFIED="1600747582360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$1003.coverage" NAME="1003 Coverage Results" MODIFIED="1599270735819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$1330.coverage" NAME="1330 Coverage Results" MODIFIED="1596332027552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$3009.coverage" NAME="3009 Coverage Results" MODIFIED="1597040566906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$5_1.coverage" NAME="5-1 Coverage Results" MODIFIED="1597669298576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
+    <SUITE FILE_PATH="coverage/codingtest$6_3.coverage" NAME="6-3 Coverage Results" MODIFIED="1598339506875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
+    <SUITE FILE_PATH="coverage/codingtest$7568.coverage" NAME="7568 Coverage Results" MODIFIED="1597494699722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$1654.coverage" NAME="1654 Coverage Results" MODIFIED="1598769292548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$5_5.coverage" NAME="5-5 Coverage Results" MODIFIED="1597670450704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
+    <SUITE FILE_PATH="coverage/codingtest$06__BFS___.coverage" NAME="06. BFS - 최단경로 Coverage Results" MODIFIED="1595393376254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/Youtube" />
+    <SUITE FILE_PATH="coverage/codingtest$programers.coverage" NAME="programmers Coverage Results" MODIFIED="1598668851373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codingtest$10870.coverage" NAME="10870 Coverage Results" MODIFIED="1597140047573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$2798.coverage" NAME="2798 Coverage Results" MODIFIED="1597393598609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$2446.coverage" NAME="2446 Coverage Results" MODIFIED="1596348879315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$2606_dfs.coverage" NAME="2606-dfs Coverage Results" MODIFIED="1598513452438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$5_8.coverage" NAME="5-8 Coverage Results" MODIFIED="1598511771958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
+    <SUITE FILE_PATH="coverage/codingtest$4_3.coverage" NAME="4-3 Coverage Results" MODIFIED="1597569671008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
+    <SUITE FILE_PATH="coverage/codingtest$6.coverage" NAME="6번 Coverage Results" MODIFIED="1594369494335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/section 2" />
+    <SUITE FILE_PATH="coverage/codingtest$4344.coverage" NAME="4344 Coverage Results" MODIFIED="1596370927550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$1012.coverage" NAME="1012 Coverage Results" MODIFIED="1598167787463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$1978.coverage" NAME="1978 Coverage Results" MODIFIED="1596899108126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$3053.coverage" NAME="3053 Coverage Results" MODIFIED="1597042338827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$1546.coverage" NAME="1546 Coverage Results" MODIFIED="1596355734810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$7_5.coverage" NAME="7-5 Coverage Results" MODIFIED="1598632476955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
+    <SUITE FILE_PATH="coverage/codingtest$Toss.coverage" NAME="Toss Coverage Results" MODIFIED="1596331939086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codingtest$2138.coverage" NAME="2138 Coverage Results" MODIFIED="1600856453865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$ex.coverage" NAME="ex Coverage Results" MODIFIED="1594890074606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/section 2" />
+    <SUITE FILE_PATH="coverage/codingtest$1138.coverage" NAME="1138 Coverage Results" MODIFIED="1599709381858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$2447.coverage" NAME="2447 Coverage Results" MODIFIED="1597213184394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$2156.coverage" NAME="2156 Coverage Results" MODIFIED="1599616732065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$2748.coverage" NAME="2748 Coverage Results" MODIFIED="1599270781033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$1316.coverage" NAME="1316 Coverage Results" MODIFIED="1596632655745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$3_1.coverage" NAME="3-1 Coverage Results" MODIFIED="1597207070662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
+    <SUITE FILE_PATH="coverage/codingtest$11654.coverage" NAME="11654 Coverage Results" MODIFIED="1596454442684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$2869.coverage" NAME="2869 Coverage Results" MODIFIED="1596785264683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$10250.coverage" NAME="10250 Coverage Results" MODIFIED="1596788652489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$8_3.coverage" NAME="8-3 Coverage Results" MODIFIED="1599192879254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
+    <SUITE FILE_PATH="coverage/codingtest$10814.coverage" NAME="10814 Coverage Results" MODIFIED="1598430511257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$2751.coverage" NAME="2751 Coverage Results" MODIFIED="1598426112059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$11729.coverage" NAME="11729 Coverage Results" MODIFIED="1597213260449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$10996.coverage" NAME="10996 Coverage Results" MODIFIED="1596348882262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$6_7.coverage" NAME="6-7 Coverage Results" MODIFIED="1598361298697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
+    <SUITE FILE_PATH="coverage/codingtest$14659.coverage" NAME="14659 Coverage Results" MODIFIED="1600241543056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$6_2.coverage" NAME="6-2 Coverage Results" MODIFIED="1598336636218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
+    <SUITE FILE_PATH="coverage/codingtest$11054.coverage" NAME="11054 Coverage Results" MODIFIED="1599616421451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$03__.coverage" NAME="03. 버블정렬 Coverage Results" MODIFIED="1595327622834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/탐색" />
+    <SUITE FILE_PATH="coverage/codingtest$9_3.coverage" NAME="9-3 Coverage Results" MODIFIED="1599986203978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
+    <SUITE FILE_PATH="coverage/codingtest$1758.coverage" NAME="1758 Coverage Results" MODIFIED="1600396867532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$4_4.coverage" NAME="4-4 Coverage Results" MODIFIED="1597666540443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
+    <SUITE FILE_PATH="coverage/codingtest$2504.coverage" NAME="2504 Coverage Results" MODIFIED="1600763391444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$5_2.coverage" NAME="5-2 Coverage Results" MODIFIED="1597669659058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
+    <SUITE FILE_PATH="coverage/codingtest$7.coverage" NAME="7번 Coverage Results" MODIFIED="1595240887199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/section 2" />
+    <SUITE FILE_PATH="coverage/codingtest$8_8.coverage" NAME="8-8 Coverage Results" MODIFIED="1599192643291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
+    <SUITE FILE_PATH="coverage/codingtest$1339.coverage" NAME="1339 Coverage Results" MODIFIED="1599704267638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$2437.coverage" NAME="2437 Coverage Results" MODIFIED="1599833532875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$11724_unionfind.coverage" NAME="11724-unionfind Coverage Results" MODIFIED="1600747480837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$2292.coverage" NAME="2292 Coverage Results" MODIFIED="1596704285082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$15649.coverage" NAME="15649 Coverage Results" MODIFIED="1598515542740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$10_1.coverage" NAME="10-1 Coverage Results" MODIFIED="1600669552369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
+    <SUITE FILE_PATH="coverage/codingtest$1002.coverage" NAME="1002 Coverage Results" MODIFIED="1597138933646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$15652.coverage" NAME="15652 Coverage Results" MODIFIED="1598971619251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$10162.coverage" NAME="10162 Coverage Results" MODIFIED="1599702000204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$1041.coverage" NAME="1041 Coverage Results" MODIFIED="1600152933064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$2872.coverage" NAME="2872 Coverage Results" MODIFIED="1600399425507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$6_4.coverage" NAME="6-4 Coverage Results" MODIFIED="1598341040014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
+    <SUITE FILE_PATH="coverage/codingtest$2908.coverage" NAME="2908 Coverage Results" MODIFIED="1596616510821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$8_1.coverage" NAME="8-1 Coverage Results" MODIFIED="1598696735334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
+    <SUITE FILE_PATH="coverage/codingtest$5_9.coverage" NAME="5-9 Coverage Results" MODIFIED="1598158759868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
+    <SUITE FILE_PATH="coverage/codingtest$5_4.coverage" NAME="5-4 Coverage Results" MODIFIED="1597670077694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
+    <SUITE FILE_PATH="coverage/codingtest$1931.coverage" NAME="1931 Coverage Results" MODIFIED="1597215429929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$02_formatting.coverage" NAME="02.formatting Coverage Results" MODIFIED="1595152868540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory" />
+    <SUITE FILE_PATH="coverage/codingtest$2753.coverage" NAME="2753 Coverage Results" MODIFIED="1596346552721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$2581.coverage" NAME="2581 Coverage Results" MODIFIED="1596899154286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$11047.coverage" NAME="11047 Coverage Results" MODIFIED="1597213691287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$1904.coverage" NAME="1904 Coverage Results" MODIFIED="1599270830339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$5585.coverage" NAME="5585 Coverage Results" MODIFIED="1599200897701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$4_2.coverage" NAME="4-2 Coverage Results" MODIFIED="1597285216438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
+    <SUITE FILE_PATH="coverage/codingtest$11651.coverage" NAME="11651 Coverage Results" MODIFIED="1598431052803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$10844.coverage" NAME="10844 Coverage Results" MODIFIED="1599490866642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$13305.coverage" NAME="13305 Coverage Results" MODIFIED="1599794288111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$1929.coverage" NAME="1929 Coverage Results" MODIFIED="1597038401986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$4673.coverage" NAME="4673 Coverage Results" MODIFIED="1596374890941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$1436.coverage" NAME="1436 Coverage Results" MODIFIED="1598933973886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$5_7.coverage" NAME="5-7 Coverage Results" MODIFIED="1597672102355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
+    <SUITE FILE_PATH="coverage/codingtest$2110.coverage" NAME="2110 Coverage Results" MODIFIED="1598772279823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$2816.coverage" NAME="2816 Coverage Results" MODIFIED="1598972094275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$14720.coverage" NAME="14720 Coverage Results" MODIFIED="1600248933475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$5_6.coverage" NAME="5-6 Coverage Results" MODIFIED="1597672011482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$2839.coverage" NAME="2839 Coverage Results" MODIFIED="1596696093889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$1780.coverage" NAME="1780 Coverage Results" MODIFIED="1600747582360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$2577.coverage" NAME="2577 Coverage Results" MODIFIED="1596355271779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$1003.coverage" NAME="1003 Coverage Results" MODIFIED="1599270735819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$7_3.coverage" NAME="7-3 Coverage Results" MODIFIED="1598624337945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
-    <SUITE FILE_PATH="coverage/codingtest$1330.coverage" NAME="1330 Coverage Results" MODIFIED="1596332027552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$1181.coverage" NAME="1181 Coverage Results" MODIFIED="1598430227625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$3009.coverage" NAME="3009 Coverage Results" MODIFIED="1597040566906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$10872.coverage" NAME="10872 Coverage Results" MODIFIED="1597139655227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$5_1.coverage" NAME="5-1 Coverage Results" MODIFIED="1597669298576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$14754.coverage" NAME="14754 Coverage Results" MODIFIED="1600657854530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$2810.coverage" NAME="2810 Coverage Results" MODIFIED="1599808446702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$5_11.coverage" NAME="5-11 Coverage Results" MODIFIED="1598279011431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$9461.coverage" NAME="9461 Coverage Results" MODIFIED="1599305847520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$1744.coverage" NAME="1744 Coverage Results" MODIFIED="1599748668657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$6_3.coverage" NAME="6-3 Coverage Results" MODIFIED="1598339506875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
-    <SUITE FILE_PATH="coverage/codingtest$7568.coverage" NAME="7568 Coverage Results" MODIFIED="1597494699722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$1654.coverage" NAME="1654 Coverage Results" MODIFIED="1598769292548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$5_5.coverage" NAME="5-5 Coverage Results" MODIFIED="1597670450704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$5_10_.coverage" NAME="5-10 응용 Coverage Results" MODIFIED="1598512412992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$8_5.coverage" NAME="8-5 Coverage Results" MODIFIED="1599148668121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$1449.coverage" NAME="1449 Coverage Results" MODIFIED="1599789952605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$06__BFS___.coverage" NAME="06. BFS - 최단경로 Coverage Results" MODIFIED="1595393376254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/Youtube" />
     <SUITE FILE_PATH="coverage/codingtest$3_3.coverage" NAME="3-3 Coverage Results" MODIFIED="1597209406759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$4_1.coverage" NAME="4-1 Coverage Results" MODIFIED="1597285015264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
-    <SUITE FILE_PATH="coverage/codingtest$programers.coverage" NAME="programmers Coverage Results" MODIFIED="1598668851373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/codingtest$10870.coverage" NAME="10870 Coverage Results" MODIFIED="1597140047573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$1976.coverage" NAME="1976 Coverage Results" MODIFIED="1600820702436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$1.coverage" NAME="1 Coverage Results" MODIFIED="1596258322552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory" />
-    <SUITE FILE_PATH="coverage/codingtest$2798.coverage" NAME="2798 Coverage Results" MODIFIED="1597393598609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$2446.coverage" NAME="2446 Coverage Results" MODIFIED="1596348879315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$1541.coverage" NAME="1541 Coverage Results" MODIFIED="1597219820485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$2606_dfs.coverage" NAME="2606-dfs Coverage Results" MODIFIED="1598513452438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$8_2.coverage" NAME="8-2 Coverage Results" MODIFIED="1598697416027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$01_slicing.coverage" NAME="01.slicing Coverage Results" MODIFIED="1595152270932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory" />
     <SUITE FILE_PATH="coverage/codingtest$14888.coverage" NAME="1946 Coverage Results" MODIFIED="1599700043518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$5_8.coverage" NAME="5-8 Coverage Results" MODIFIED="1598511771958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$toss_6.coverage" NAME="toss-6 Coverage Results" MODIFIED="1598167042863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory" />
-    <SUITE FILE_PATH="coverage/codingtest$4_3.coverage" NAME="4-3 Coverage Results" MODIFIED="1597569671008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$15651.coverage" NAME="15651 Coverage Results" MODIFIED="1598971144336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$6.coverage" NAME="6번 Coverage Results" MODIFIED="1594369494335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/section 2" />
     <SUITE FILE_PATH="coverage/codingtest$10809.coverage" NAME="10809 Coverage Results" MODIFIED="1596464006926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$2108.coverage" NAME="2108 Coverage Results" MODIFIED="1598510269600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$4344.coverage" NAME="4344 Coverage Results" MODIFIED="1596370927550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$1012.coverage" NAME="1012 Coverage Results" MODIFIED="1598167787463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$1978.coverage" NAME="1978 Coverage Results" MODIFIED="1596899108126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$2231.coverage" NAME="2231 Coverage Results" MODIFIED="1597480640953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$3053.coverage" NAME="3053 Coverage Results" MODIFIED="1597042338827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$1546.coverage" NAME="1546 Coverage Results" MODIFIED="1596355734810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$6_5.coverage" NAME="6-5 Coverage Results" MODIFIED="1598341598943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$7576.coverage" NAME="7576 Coverage Results" MODIFIED="1598421523462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$7_5.coverage" NAME="7-5 Coverage Results" MODIFIED="1598632476955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$4161.coverage" NAME="4161 Coverage Results" MODIFIED="1597592197845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$1427.coverage" NAME="1427 Coverage Results" MODIFIED="1598428032755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
   </component>
