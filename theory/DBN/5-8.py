@@ -1,7 +1,8 @@
 '''
 DFS - 깊이 우선 탐색
 '''
-
+import sys
+sys.set
 
 def dfs(graph, v, visited):
     visited[v] = True
