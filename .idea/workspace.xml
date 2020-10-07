@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf8a75fd-1e37-4738-9eff-eb8335fce640" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ/2212.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/4889.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/8980.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/11256.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/2891.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +47,8 @@
       <recent name="$PROJECT_DIR$/theory" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.8980">
-    <configuration name="2138-응용" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.11256">
+    <configuration name="11256" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,29 +61,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/2138-응용.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2193" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codingtest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/2193.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/11256.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,6 +84,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/2212.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2891" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/2891.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11256" />
+        <item itemvalue="Python.2891" />
         <item itemvalue="Python.8980" />
         <item itemvalue="Python.2212" />
         <item itemvalue="Python.4889" />
-        <item itemvalue="Python.2138-응용" />
-        <item itemvalue="Python.2193" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +203,7 @@
       <workItem from="1601434826729" duration="21585000" />
       <workItem from="1601645279734" duration="11905000" />
       <workItem from="1601786215283" duration="4320000" />
-      <workItem from="1601885739038" duration="5606000" />
+      <workItem from="1601885739038" duration="14100000" />
     </task>
     <servers />
   </component>
@@ -217,74 +216,74 @@
     </state>
     <state x="0" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1598429343016" />
     <state x="0" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-270.-1057.1920.1057@0.23.1440.877" timestamp="1596455076376" />
-    <state width="637" height="240" key="GridCell.Tab.0.bottom" timestamp="1601950956346">
+    <state width="538" height="240" key="GridCell.Tab.0.bottom" timestamp="1601972488010">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1070" height="245" key="GridCell.Tab.0.bottom/-1112.23.1112.811/0.23.1440.877@0.23.1440.877" timestamp="1596513289547" />
     <state width="1398" height="234" key="GridCell.Tab.0.bottom/-1194.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1599885352594" />
-    <state width="637" height="240" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601950956346" />
+    <state width="538" height="240" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601972488010" />
     <state width="828" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601688997749" />
     <state width="1070" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877/-270.-1057.1920.1057@0.23.1440.877" timestamp="1596464006943" />
     <state width="586" height="282" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601885735509" />
     <state width="878" height="248" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1601568589679" />
-    <state width="637" height="240" key="GridCell.Tab.0.center" timestamp="1601950956344">
+    <state width="538" height="240" key="GridCell.Tab.0.center" timestamp="1601972488010">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1070" height="245" key="GridCell.Tab.0.center/-1112.23.1112.811/0.23.1440.877@0.23.1440.877" timestamp="1596513289546" />
     <state width="1398" height="234" key="GridCell.Tab.0.center/-1194.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1599885352593" />
-    <state width="637" height="240" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601950956344" />
+    <state width="538" height="240" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601972488010" />
     <state width="828" height="248" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601688997748" />
     <state width="1070" height="245" key="GridCell.Tab.0.center/0.23.1440.877/-270.-1057.1920.1057@0.23.1440.877" timestamp="1596464006941" />
     <state width="586" height="282" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601885735508" />
     <state width="878" height="248" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1601568589679" />
-    <state width="637" height="240" key="GridCell.Tab.0.left" timestamp="1601950956343">
+    <state width="538" height="240" key="GridCell.Tab.0.left" timestamp="1601972488009">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1070" height="245" key="GridCell.Tab.0.left/-1112.23.1112.811/0.23.1440.877@0.23.1440.877" timestamp="1596513289546" />
     <state width="1398" height="234" key="GridCell.Tab.0.left/-1194.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1599885352592" />
-    <state width="637" height="240" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601950956343" />
+    <state width="538" height="240" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601972488009" />
     <state width="828" height="248" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601688997747" />
     <state width="1070" height="245" key="GridCell.Tab.0.left/0.23.1440.877/-270.-1057.1920.1057@0.23.1440.877" timestamp="1596464006941" />
     <state width="586" height="282" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601885735507" />
     <state width="878" height="248" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1601568589678" />
-    <state width="637" height="240" key="GridCell.Tab.0.right" timestamp="1601950956345">
+    <state width="538" height="240" key="GridCell.Tab.0.right" timestamp="1601972488010">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1070" height="245" key="GridCell.Tab.0.right/-1112.23.1112.811/0.23.1440.877@0.23.1440.877" timestamp="1596513289547" />
     <state width="1398" height="234" key="GridCell.Tab.0.right/-1194.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1599885352594" />
-    <state width="637" height="240" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601950956345" />
+    <state width="538" height="240" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601972488010" />
     <state width="828" height="248" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601688997748" />
     <state width="1070" height="245" key="GridCell.Tab.0.right/0.23.1440.877/-270.-1057.1920.1057@0.23.1440.877" timestamp="1596464006942" />
     <state width="586" height="282" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601885735508" />
     <state width="878" height="248" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1601568589679" />
-    <state width="586" height="282" key="GridCell.Tab.1.bottom" timestamp="1601885735510">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="538" height="299" key="GridCell.Tab.1.bottom" timestamp="1601972145799">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="651" height="300" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601730675031" />
+    <state width="538" height="299" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601972145799" />
     <state width="795" height="372" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601643194651" />
     <state width="1070" height="285" key="GridCell.Tab.1.bottom/0.23.1440.877/-270.-1057.1920.1057@0.23.1440.877" timestamp="1596460735004" />
     <state width="586" height="282" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601885735510" />
     <state width="728" height="284" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1597483150280" />
-    <state width="586" height="282" key="GridCell.Tab.1.center" timestamp="1601885735510">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="538" height="299" key="GridCell.Tab.1.center" timestamp="1601972145798">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="651" height="300" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1601730675030" />
+    <state width="538" height="299" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1601972145798" />
     <state width="795" height="372" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601643194650" />
     <state width="1070" height="285" key="GridCell.Tab.1.center/0.23.1440.877/-270.-1057.1920.1057@0.23.1440.877" timestamp="1596460735002" />
     <state width="586" height="282" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1601885735510" />
     <state width="728" height="284" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1597483150280" />
-    <state width="586" height="282" key="GridCell.Tab.1.left" timestamp="1601885735509">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="538" height="299" key="GridCell.Tab.1.left" timestamp="1601972145798">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="651" height="300" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1601730675029" />
+    <state width="538" height="299" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1601972145798" />
     <state width="795" height="372" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601643194649" />
     <state width="1070" height="285" key="GridCell.Tab.1.left/0.23.1440.877/-270.-1057.1920.1057@0.23.1440.877" timestamp="1596460735001" />
     <state width="586" height="282" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1601885735509" />
     <state width="728" height="284" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1597483150280" />
-    <state width="586" height="282" key="GridCell.Tab.1.right" timestamp="1601885735510">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="538" height="299" key="GridCell.Tab.1.right" timestamp="1601972145799">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="651" height="300" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1601730675030" />
+    <state width="538" height="299" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1601972145799" />
     <state width="795" height="372" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601643194650" />
     <state width="1070" height="285" key="GridCell.Tab.1.right/0.23.1440.877/-270.-1057.1920.1057@0.23.1440.877" timestamp="1596460735002" />
     <state width="586" height="282" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1601885735510" />
@@ -325,6 +324,7 @@
     <SUITE FILE_PATH="coverage/codingtest$1193.coverage" NAME="1193 Coverage Results" MODIFIED="1597391125481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$2212.coverage" NAME="2212 Coverage Results" MODIFIED="1601885744024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$6_1.coverage" NAME="6-1 Coverage Results" MODIFIED="1598283117447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
+    <SUITE FILE_PATH="coverage/codingtest$2891.coverage" NAME="2891 Coverage Results" MODIFIED="1601966676124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$2579.coverage" NAME="2579 Coverage Results" MODIFIED="1599469201877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$2775.coverage" NAME="2775 Coverage Results" MODIFIED="1596899103926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$11509.coverage" NAME="11509 Coverage Results" MODIFIED="1601166620406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
@@ -334,6 +334,7 @@
     <SUITE FILE_PATH="coverage/codingtest$2667.coverage" NAME="2667 Coverage Results" MODIFIED="1598514882235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$2750.coverage" NAME="2750 Coverage Results" MODIFIED="1598516531000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$8_4.coverage" NAME="8-4 Coverage Results" MODIFIED="1598699282631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
+    <SUITE FILE_PATH="coverage/codingtest$11256.coverage" NAME="11256 Coverage Results" MODIFIED="1601972488002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$10818.coverage" NAME="10818 Coverage Results" MODIFIED="1596350332426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$5_9_.coverage" NAME="5-9 응용 Coverage Results" MODIFIED="1597907755227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory/DBN" />
     <SUITE FILE_PATH="coverage/codingtest$8958.coverage" NAME="8958 Coverage Results" MODIFIED="1596370864745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
@@ -431,7 +432,7 @@
     <SUITE FILE_PATH="coverage/codingtest$1138.coverage" NAME="1138 Coverage Results" MODIFIED="1599709381858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$5545.coverage" NAME="5545 Coverage Results" MODIFIED="1601192927159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$2447.coverage" NAME="2447 Coverage Results" MODIFIED="1597213184394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
-    <SUITE FILE_PATH="coverage/codingtest$8980.coverage" NAME="8980 Coverage Results" MODIFIED="1601950956334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$8980.coverage" NAME="8980 Coverage Results" MODIFIED="1601954874723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$2156.coverage" NAME="2156 Coverage Results" MODIFIED="1599616732065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$2748.coverage" NAME="2748 Coverage Results" MODIFIED="1599270781033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$1316.coverage" NAME="1316 Coverage Results" MODIFIED="1596632655745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
