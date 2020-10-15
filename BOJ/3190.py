@@ -6,6 +6,7 @@ input = lambda : sys.stdin.readline().rstrip()
 n = int(input())
 k = int(input())
 arr = [[0] * n for _ in range(n)]
+
 for _ in range(k):
     a, b = map(int, input().split())
     arr[a-1][b-1] = 1
@@ -35,11 +36,13 @@ def start():
     time = 1
     y, x = 0, 0
 
-    visited = deque([[y, x]])  # 방문 위치
+    visited = deque() # 방문 위치
+    visited.append([y, x])
     arr[y][x] = 2
 
     while True:
         y, x = y + dy[direction], x + dx[direction]
+
         if 0 <= y < n and 0 <= x < n and arr[y][x] != 2:
             if not arr[y][x] == 1:  # 사과가 없는 경우
                 temp_y, temp_x = visited.popleft()
@@ -50,8 +53,8 @@ def start():
 
             if time in times.keys():
                 direction = change(direction, times[time])
-
             time += 1
+
         else:
             return time
 
