@@ -1,5 +1,7 @@
 # # 뱀
+import sys
 from collections import deque
+input = lambda : sys.stdin.readline().rstrip()
 
 n = int(input())
 k = int(input())
@@ -15,10 +17,12 @@ for i in range(l):
     times[int(x)] = c
 
 
-dx, dy = [0, 1, 0, -1], [-1, 0, 1, 0] # 상 우 하 좌
+dx, dy = [0, 1, 0, -1], [-1, 0, 1, 0] # 상 우 하 좌 CW로 방향 설정
 
 
 def change(d, c): # 상 우 하 좌로 돌아가야됨
+    # CW : +1 >> 상 우 하 좌 상
+    # CCW : -1 >> 상 좌 하 우 상
     if c == 'L':
         d = (d - 1) % 4
     else:
@@ -27,23 +31,26 @@ def change(d, c): # 상 우 하 좌로 돌아가야됨
 
 
 def start():
-    dir, time = 1, 1
-    x, y = 0, 0
-    visited = deque([[x, y]])
-    arr[x][y] = 2
+    direction = 1
+    time = 1
+    y, x = 0, 0
+
+    visited = deque([[y, x]])  # 방문 위치
+    arr[y][x] = 2
 
     while True:
-        x, y = x + dx[dir], y + dy[dir]
-        if 0 <= x < n and 0 <= y < n and arr[x][y] != 2:
-            if not arr[x][y] == 1:
-                tmp_x, tmp_y = visited.popleft()
-                arr[tmp_x][tmp_y] = 0
+        y, x = y + dy[direction], x + dx[direction]
+        if 0 <= y < n and 0 <= x < n and arr[y][x] != 2:
+            if not arr[y][x] == 1:  # 사과가 없는 경우
+                temp_y, temp_x = visited.popleft()
+                arr[temp_y][temp_x] = 0  # 꼬리 제거
 
-            arr[x][y] = 2
-            visited.append([x, y])
+            arr[y][x] = 2
+            visited.append([y, x])
 
             if time in times.keys():
-                dir = change(dir, times[time])
+                direction = change(direction, times[time])
+
             time += 1
         else:
             return time
