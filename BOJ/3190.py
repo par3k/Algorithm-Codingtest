@@ -1,15 +1,14 @@
-# # 뱀
+# 뱀
 import sys
 from collections import deque
 input = lambda : sys.stdin.readline().rstrip()
 
 n = int(input())
 k = int(input())
-arr = [[0] * n for _ in range(n)]
-
+graph = [[0] * n for _ in range(n)]
 for _ in range(k):
     a, b = map(int, input().split())
-    arr[a-1][b-1] = 1
+    graph[a-1][b-1] = 1
 
 l = int(input())
 times = {}
@@ -22,34 +21,32 @@ dx, dy = [0, 1, 0, -1], [-1, 0, 1, 0] # 상 우 하 좌 CW로 방향 설정
 
 
 def change(d, c): # 상 우 하 좌로 돌아가야됨
-    # CW : +1 >> 상 우 하 좌 상
-    # CCW : -1 >> 상 좌 하 우 상
-    if c == 'L':
+    if c == 'L': # CCW : -1 >> 상 좌 하 우 상
         d = (d - 1) % 4
-    else:
+    else: # CW : +1 >> 상 우 하 좌 상
         d = (d + 1) % 4
     return d
 
 
-def start():
+def bfs():
     direction = 1
     time = 1
-    y, x = 0, 0
+    x, y = 0, 0
 
     visited = deque() # 방문 위치
-    visited.append([y, x])
-    arr[y][x] = 2
+    visited.append([x, y])
+    graph[x][y] = 2
 
     while True:
-        y, x = y + dy[direction], x + dx[direction]
+        x, y = x + dx[direction], y + dy[direction]
 
-        if 0 <= y < n and 0 <= x < n and arr[y][x] != 2:
-            if not arr[y][x] == 1:  # 사과가 없는 경우
-                temp_y, temp_x = visited.popleft()
-                arr[temp_y][temp_x] = 0  # 꼬리 제거
+        if 0 <= x < n and 0 <= y < n and graph[x][y] != 2:
+            if graph[x][y] == 0:  # 사과가 없는 경우
+                tmp_x, tmp_y = visited.popleft()
+                graph[tmp_x][tmp_y] = 0  # 뱀 꼬리 제거
 
-            arr[y][x] = 2
-            visited.append([y, x])
+            graph[x][y] = 2
+            visited.append([x, y])
 
             if time in times.keys():
                 direction = change(direction, times[time])
@@ -59,4 +56,17 @@ def start():
             return time
 
 
-print(start())
+print(bfs())
+
+
+'''
+6
+3
+3 4
+2 5
+5 3
+3
+3 D
+15 L
+17 D
+'''
