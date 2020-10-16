@@ -6,7 +6,6 @@
       <change afterPath="$PROJECT_DIR$/BOJ/2206.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/BOJ/7562.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/BOJ/9012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/1929.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -211,7 +210,7 @@
       <workItem from="1602684686304" duration="3963000" />
       <workItem from="1602731712426" duration="965000" />
       <workItem from="1602733264483" duration="1150000" />
-      <workItem from="1602738767760" duration="5573000" />
+      <workItem from="1602738767760" duration="5871000" />
     </task>
     <servers />
   </component>
