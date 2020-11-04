@@ -1,7 +1,8 @@
-s="try hello world"
+s=" try hello world "
 
 def solution(s):
     s=s.split(' ')
+    print(s)
     a=[]
     for j in range(len(s)):
         for i in range(len(s[j])):
