@@ -1,4 +1,4 @@
-# 뿌요뿌
+# 뿌요뿌요
 import sys
 from collections import deque
 # sys.stdin = open('/Users/alex/Documents/GitHub/codingtest/BOJ/input.txt', 'r')
