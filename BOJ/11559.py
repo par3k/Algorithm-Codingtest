@@ -1,12 +1,12 @@
 # 뿌요뿌요
 import sys
 from collections import deque
-# sys.stdin = open('/Users/alex/Documents/GitHub/codingtest/BOJ/input.txt', 'r')
 input = lambda : sys.stdin.readline().rstrip()
 
 graph = [['.' for _ in range(12)] for _ in range(6)]
 visited = [[False] * 12 for _ in range(6)]
 dx, dy = [-1, 1, 0, 0], [0, 0, -1, 1]
+
 combo = 0
 
 for j in range(11, -1, -1):
@@ -21,6 +21,7 @@ def bfs(x, y):
     color = graph[x][y]
     visited[x][y] = True
     cnt = 1
+
     queue.append([x, y])
     location.append([x, y])
 
