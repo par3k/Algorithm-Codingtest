@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class BOJ_2562 {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int i = 1;

@@ -12,5 +12,5 @@ cnt = 0
 
 while cnt <= 9:
     num = total_list.count(str(cnt))
-    cnt = cnt + 1
+    cnt += 1
     print(num)
