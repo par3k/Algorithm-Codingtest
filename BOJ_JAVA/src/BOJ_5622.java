@@ -9,7 +9,7 @@ public class BOJ_5622 {
         StringTokenizer st = new StringTokenizer(br.readLine());
         String s = st.nextToken();
         char arr[] = s.toCharArray();
-        
+
         int ans = 0;
 
         for (int i = 0; i < arr.length; i++) {
