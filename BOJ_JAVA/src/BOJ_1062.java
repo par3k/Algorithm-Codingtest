@@ -3,6 +3,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class BOJ_1062 {
+
     static int n, k;
     static List<Integer> words = new ArrayList<>();
     static int answer = 0;

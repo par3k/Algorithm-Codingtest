@@ -4,6 +4,7 @@ import java.io.InputStreamReader;
 
 public class BOJ_10809 {
     public static void main(String[] args) throws IOException {
+
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         byte[] s = br.readLine().getBytes();
         byte[] alpha = new byte[26];

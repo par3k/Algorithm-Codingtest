@@ -6,6 +6,7 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 class myPoint {
+
     int x, y, z;
     myPoint(int z, int y, int x){
         this.z = z;
