@@ -1,4 +1,7 @@
 # 연속 구간
+import sys
+input = lambda : sys.stdin.readline().rstrip()
+
 
 def cnt(s):
     cnt = 1
