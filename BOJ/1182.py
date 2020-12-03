@@ -11,5 +11,4 @@ for i in range(1, n + 1):
     for cb in combinations(arr, i):
         if sum(cb) == s:
             ans += 1
-
 print(ans)
