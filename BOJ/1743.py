@@ -1,3 +1,4 @@
+# 음식물 피하기
 import sys
 from collections import deque
 input = lambda : sys.stdin.readline().rstrip()
