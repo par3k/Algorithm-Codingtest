@@ -38,6 +38,3 @@ for i in range(n):
 
 print(ans_cnt)
 print(ans)
-
-
-
