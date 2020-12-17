@@ -2,38 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf8a75fd-1e37-4738-9eff-eb8335fce640" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ/14405.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/12780.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/2146.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_1000.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_1000.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_1008.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_1008.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_10430.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_10430.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_1062.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_1062.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_10809.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_10809.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_10818.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_10818.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_10871.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_10871.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_10952.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_10952.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_1110.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_1110.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_1152.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_1152.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_11654.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_11654.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_11720.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_11720.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_2562.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_2562.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_2577.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_2577.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_2675.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_2675.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_2739.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_2739.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_2741.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_2741.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_2908.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_2908.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_3101.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_3101.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_5622.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_5622.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_7569.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_7569.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_8393.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_8393.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_9498.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/BOJ_9498.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/Codeup_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/Codeup_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/Codeup_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/Codeup_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/Codeup_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/Codeup_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/Codeup_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/Codeup_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/Codeup_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/Codeup_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/Codeup_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/Codeup_6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/Codeup_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/Codeup_7.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/dfs_bfs.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/dfs_bfs.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/myPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/out/production/BOJ_JAVA/myPoint.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BOJ_JAVA/src/dfs_bfs.java" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_JAVA/src/dfs_bfs.java" afterDir="false" />
@@ -81,7 +52,7 @@
       <recent name="$PROJECT_DIR$/theory" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.14405">
+  <component name="RunManager" selected="Python.2146">
     <configuration name="10174" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,6 +67,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/10174.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12780" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/12780.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1786" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2146" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,7 +132,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/1786.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/2146.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,28 +155,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/2589.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="8595" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codingtest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/8595.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2146" />
+        <item itemvalue="Python.12780" />
         <item itemvalue="Python.14405" />
         <item itemvalue="Python.10174" />
         <item itemvalue="Python.8949" />
-        <item itemvalue="Python.8595" />
-        <item itemvalue="Python.1786" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +270,7 @@
       <workItem from="1607843652353" duration="5776000" />
       <workItem from="1607991261670" duration="2236000" />
       <workItem from="1607994361818" duration="3141000" />
-      <workItem from="1608077118004" duration="4185000" />
+      <workItem from="1608077118004" duration="7185000" />
     </task>
     <servers />
   </component>
@@ -311,42 +282,42 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="0" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1604227189020" />
-    <state width="791" height="324" key="GridCell.Tab.0.bottom" timestamp="1608171633330">
+    <state width="791" height="324" key="GridCell.Tab.0.bottom" timestamp="1608174533963">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1398" height="234" key="GridCell.Tab.0.bottom/-1194.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1599885352594" />
     <state width="551" height="335" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607846688391" />
-    <state width="791" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1608171633330" />
+    <state width="791" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1608174533963" />
     <state width="525" height="154" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1604330310442" />
     <state width="1107" height="298" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1605150128361" />
     <state width="395" height="299" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1605607912964" />
     <state width="697" height="335" key="GridCell.Tab.0.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1607994359021" />
-    <state width="791" height="324" key="GridCell.Tab.0.center" timestamp="1608171633329">
+    <state width="791" height="324" key="GridCell.Tab.0.center" timestamp="1608174533962">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1398" height="234" key="GridCell.Tab.0.center/-1194.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1599885352593" />
     <state width="551" height="335" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607846688390" />
-    <state width="791" height="324" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1608171633329" />
+    <state width="791" height="324" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1608174533962" />
     <state width="525" height="154" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1604330310440" />
     <state width="1107" height="298" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1605150128359" />
     <state width="395" height="299" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1605607912963" />
     <state width="697" height="335" key="GridCell.Tab.0.center/0.25.1920.1055@0.25.1920.1055" timestamp="1607994359020" />
-    <state width="791" height="324" key="GridCell.Tab.0.left" timestamp="1608171633328">
+    <state width="791" height="324" key="GridCell.Tab.0.left" timestamp="1608174533961">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1398" height="234" key="GridCell.Tab.0.left/-1194.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1599885352592" />
     <state width="551" height="335" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607846688389" />
-    <state width="791" height="324" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1608171633328" />
+    <state width="791" height="324" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1608174533961" />
     <state width="525" height="154" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1604330310440" />
     <state width="1107" height="298" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1605150128358" />
     <state width="395" height="299" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1605607912963" />
     <state width="697" height="335" key="GridCell.Tab.0.left/0.25.1920.1055@0.25.1920.1055" timestamp="1607994359019" />
-    <state width="791" height="324" key="GridCell.Tab.0.right" timestamp="1608171633330">
+    <state width="791" height="324" key="GridCell.Tab.0.right" timestamp="1608174533962">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1398" height="234" key="GridCell.Tab.0.right/-1194.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1599885352594" />
     <state width="551" height="335" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607846688390" />
-    <state width="791" height="324" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1608171633330" />
+    <state width="791" height="324" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1608174533962" />
     <state width="525" height="154" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1604330310441" />
     <state width="1107" height="298" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1605150128360" />
     <state width="395" height="299" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1605607912964" />
@@ -426,6 +397,7 @@
     <SUITE FILE_PATH="coverage/codingtest$2644.coverage" NAME="2644 Coverage Results" MODIFIED="1604820746979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$9086.coverage" NAME="9086 Coverage Results" MODIFIED="1604896707278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$5218.coverage" NAME="5218 Coverage Results" MODIFIED="1604902915626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$2146.coverage" NAME="2146 Coverage Results" MODIFIED="1608174533951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$2638.coverage" NAME="2638 Coverage Results" MODIFIED="1606038665849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$11575.coverage" NAME="11575 Coverage Results" MODIFIED="1607917078755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$1371.coverage" NAME="1371 Coverage Results" MODIFIED="1605511414753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
@@ -476,6 +448,7 @@
     <SUITE FILE_PATH="coverage/codingtest$1871.coverage" NAME="1871 Coverage Results" MODIFIED="1606398845463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$8949.coverage" NAME="8949 Coverage Results" MODIFIED="1608001105022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$6593.coverage" NAME="6593 Coverage Results" MODIFIED="1606365778113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$12780.coverage" NAME="12780 Coverage Results" MODIFIED="1608172339834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$1919.coverage" NAME="1919 Coverage Results" MODIFIED="1605327800335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$13549.coverage" NAME="13549 Coverage Results" MODIFIED="1605680724672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
   </component>
