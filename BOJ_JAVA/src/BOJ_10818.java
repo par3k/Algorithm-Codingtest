@@ -2,29 +2,26 @@ import java.io.*;
 import java.util.StringTokenizer;
 
 public class BOJ_10818 {
-    public static void main(String[] args) throws Exception {
-
+    public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-        StringTokenizer st = new StringTokenizer(br.readLine());
+        int n = Integer.parseInt(br.readLine().trim());
 
-        int n = Integer.parseInt(st.nextToken());
-        String[] mm = br.readLine().split(" ");
+        int[] arr = new int[n];
 
-        int min = 1000001;
-        int max = -1000001;
+        int max = Integer.MIN_VALUE;
+        int min = Integer.MAX_VALUE;
 
+        StringTokenizer st = new StringTokenizer(br.readLine(), " ");
         for (int i = 0; i < n; i++) {
-            if (min > Integer.parseInt(mm[i])){
-                min = Integer.parseInt(mm[i]);
+            arr[i] = Integer.parseInt(st.nextToken());
+            if (arr[i] > max) {
+                max = arr[i];
             }
-            if (max < Integer.parseInt(mm[i])){
-                max = Integer.parseInt(mm[i]);
+            if (arr[i] < min) {
+                min = arr[i];
             }
         }
-        bw.write(Integer.toString(min) + " " + Integer.toString(max));
-        bw.close();
+        System.out.println(min + " " + max);
         br.close();
-
     }
 }
