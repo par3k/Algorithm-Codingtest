@@ -8,7 +8,6 @@ public class BOJ_10809 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         byte[] s = br.readLine().getBytes();
         byte[] alpha = new byte[26];
-
         for (int i = 0; i < alpha.length; i++) {
             alpha[i] = -1;
         }
@@ -19,7 +18,7 @@ public class BOJ_10809 {
             }
         }
         for (int ans : alpha) {
-            System.out.print(ans + " ");
+            System.out.println(ans + " ");
         }
     }
 }

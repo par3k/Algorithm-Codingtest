@@ -8,6 +8,6 @@ public class BOJ_11654 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         char Ascii = br.readLine().charAt(0);
         int ans = (int)Ascii;
-        System.out.print(ans);
+        System.out.println(ans);
     }
 }
