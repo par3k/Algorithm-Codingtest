@@ -16,7 +16,9 @@ public class BOJ_2798 {
             for (int j = (i + 1); j < n - 1; j++) {
                 for (int k = (i + 2); k < n; k++) {
                     if (!(i == j) && !(j == k) && !(i == k)) {
-                        tmp = Integer.parseInt(arr[i]) + Integer.parseInt(arr[j]) + Integer.parseInt(arr[k]);
+                        tmp = Integer.parseInt(arr[i]) +
+                                Integer.parseInt(arr[j]) +
+                                Integer.parseInt(arr[k]);
                         if (m >= tmp && ans < tmp) {
                             ans = tmp;
                         }
