@@ -3,7 +3,7 @@ import sys
 
 while True:
     a = list(map(str, sys.stdin.readline().rstrip()))
-    
+
     if a[0] == "#":
         break
 
