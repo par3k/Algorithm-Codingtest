@@ -1,4 +1,4 @@
-# 가장 긴 팰린드롬 부분 문자열 - 못 품
+# 가장 긴 팰린드롬 부분 문자열
 import sys
 input = lambda : sys.stdin.readline().rstrip()
 

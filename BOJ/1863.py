@@ -1,4 +1,4 @@
-# 스카이라인 쉬운거
+# 스카이라인 쉬운거 - 못 품
 import sys
 input = lambda : sys.stdin.readline().rstrip()
 
