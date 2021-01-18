@@ -1,7 +1,7 @@
 import java.io.*;
 
 public class BOJ_10872 {
-    
+
     public static int pactorial(int n) {
         if (n <= 1) {
             return 1;
