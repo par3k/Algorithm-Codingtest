@@ -26,6 +26,7 @@ public class BOJ_2493 {
         for (int i = 2; i < N + 1; i++) {
             int a = Integer.parseInt(st.nextToken());
 
+//            System.out.println(stack.toString());
             while (!stack.isEmpty()) {
                 if (a < stack.peek()) {
                     sb.append(idx.peek() + " ");
@@ -34,10 +35,10 @@ public class BOJ_2493 {
                 stack.pop();
                 idx.pop();
             }
-
             if (stack.isEmpty()) {
                 sb.append("0 ");
             }
+            System.out.println(stack.toString());
 
             stack.push(a);
             idx.push(i);
