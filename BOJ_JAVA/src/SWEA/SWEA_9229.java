@@ -3,7 +3,7 @@ package SWEA;
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class Solution_9229 {
+public class SWEA_9229 {
     private static int N, M;
     private static int[] arr;
 
