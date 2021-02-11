@@ -29,7 +29,7 @@ public class BOJ_16927 {
             graph[x][y] = graph[nx][ny];
             return tmp;
         }
-        
+
         int tmp = graph[x][y];
         graph[x][y] = dfs(nx, ny, idx);
         return tmp;
