@@ -14,7 +14,7 @@ public class BOJ_16927 {
     private static int sX, sY, eX, eY;
 
     private static int dfs(int x, int y, int idx) {
-        visited[x][y] ++;
+        visited[x][y]++;
         int nx = x + dx[idx];
         int ny = y + dy[idx];
 
@@ -29,32 +29,10 @@ public class BOJ_16927 {
             graph[x][y] = graph[nx][ny];
             return tmp;
         }
+        
         int tmp = graph[x][y];
         graph[x][y] = dfs(nx, ny, idx);
         return tmp;
-    }
-
-    private static void solve() {
-        sX = 0;
-        sY = 0;
-        eX = N - 1;
-        eY = M - 1;
-
-        int n = N;
-        int m = M;
-
-        for (int i = 0; ; i++) {
-            for (int j = 0; j < R % ((n - 1) * 2 + (m - 1) * 2); j++) {
-                dfs(i, i, 0);
-            }
-            sX++;
-            sY++;
-            eX--;
-            eY--;
-
-            if (sX > eX || sY > eY) break;
-        }
-
     }
 
     public static void main(String[] args) throws IOException {
@@ -74,8 +52,29 @@ public class BOJ_16927 {
                 graph[i][j] = Integer.parseInt(st.nextToken());
             }
         }
-        solve();
-        
+        sX = 0;
+        sY = 0;
+        eX = N - 1;
+        eY = M - 1;
+
+        int n = N;
+        int m = M;
+
+        for (int i = 0; ; i++) {
+            for (int j = 0; j < R % ((n - 1) * 2 + (m - 1) * 2); j++) {
+                dfs(i, i, 0);
+            }
+
+            sX++;
+            sY++;
+            eX--;
+            eY--;
+            n -= 2;
+            m -= 2;
+
+            if (sX > eX || sY > eY) break;
+        }
+
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < N; i++) {
             for (int j = 0; j < M; j++) {
