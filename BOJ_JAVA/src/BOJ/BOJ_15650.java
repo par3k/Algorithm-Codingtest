@@ -1,30 +1,27 @@
 package BOJ;
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BOJ_15649 {
+public class BOJ_15650 {
     private static int N, M;
     private static int[] arr;
-    private static boolean[] check;
-    private static BufferedWriter bw =  new BufferedWriter(new OutputStreamWriter(System.out));
+    private static boolean[] chk;
 
-    private static void recursive(int depth, int start) throws IOException {
+    private static void Recursive(int depth, int start) {
         if (depth == M) {
-            for (int i = 0; i < M; i++) {
-                bw.write(arr[i] + " ");
+            for (int i = 0; i < arr.length; i++) {
+                System.out.print(arr[i] + " ");
             }
-            bw.write("\n");
+            System.out.println();
             return;
         }
 
         for (int i = start; i <= N; i++) {
-            if (check[i]) continue;
-
             arr[depth] = i;
-            check[i] = true;
-            recursive(depth + 1, start);
-            check[i] = false;
+            Recursive(depth + 1, i + 1);
         }
 
     }
@@ -37,13 +34,9 @@ public class BOJ_15649 {
         M = Integer.parseInt(st.nextToken());
 
         arr = new int[M];
-        check = new boolean[N + 1];
 
-
-        recursive(0, 1);
+        Recursive(0, 1);
 
         br.close();
-        bw.flush();
-        bw.close();
     }
 }
