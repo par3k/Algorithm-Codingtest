@@ -23,7 +23,7 @@ public class BOJ_15649 {
 
             arr[depth] = i;
             check[i] = true;
-            recursive(depth + 1, start);
+            recursive(depth + 1, start + 1);
             check[i] = false;
         }
 
