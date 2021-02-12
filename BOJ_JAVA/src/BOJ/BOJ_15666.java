@@ -2,26 +2,28 @@ package BOJ;
 
 import java.io.*;
 import java.util.Arrays;
+import java.util.LinkedHashSet;
 import java.util.StringTokenizer;
 
-public class BOJ_15665 {
+public class BOJ_15666 {
     private static int N, M;
     private static int[] arr;
     private static int[] tmp;
+    private static LinkedHashSet<String> ans;
 
-    private static void Recursive(int depth, StringBuilder sb){
+    private static void Recursive(int depth, int start){
         if (depth == M) {
-            for (int i = 0; i < M; i++) {
-                sb.append(tmp[i] + " ");
-            }
-            sb.append("\n");
+            StringBuilder sb = new StringBuilder();
+            for (int i : tmp) sb.append(i).append(' ');
+            ans.add(sb.toString());
             return;
         }
+
         int num = 0;
-        for (int i = 0; i < N; i++) {
+        for (int i = start; i < N; i++) {
             if (num == arr[i]) continue;
             tmp[depth] = arr[i];
-            Recursive(depth + 1, sb);
+            Recursive(depth + 1, i);
             num = arr[i];
         }
     }
@@ -34,16 +36,16 @@ public class BOJ_15665 {
 
         arr = new int[N];
         tmp = new int[M];
+        ans = new LinkedHashSet<>();
 
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < N; i++) {
             arr[i] = Integer.parseInt(st.nextToken());
         }
-        StringBuilder sb = new StringBuilder();
 
         Arrays.sort(arr);
-        Recursive(0, sb);
-        System.out.println(sb);
+        Recursive(0, 0);
+        ans.forEach(System.out::println);
         br.close();
     }
 }
