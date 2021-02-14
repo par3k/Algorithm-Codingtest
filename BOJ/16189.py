@@ -1,0 +1,1 @@
+t = input();print('YNEOS'[t!= t[::-1]::2])
