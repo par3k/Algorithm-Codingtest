@@ -2,9 +2,394 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf8a75fd-1e37-4738-9eff-eb8335fce640" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ/16189.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/1769.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1002.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10026-bfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10026-bfs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10026-dfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10026-dfs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1003.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1011.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1012.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10162.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10162.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10173.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10173.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10174.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10174.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1018.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10250.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10250.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1032.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1032.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1041.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1041.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10610.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10610.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1062.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1062.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1065.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1065.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10773.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10773.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10798.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10798.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1080.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1080.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10809.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10809.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10814.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10814.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10815.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10815.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10816.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10816.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10818.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10818.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10823.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10823.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10828.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10828.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10844.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10844.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1085.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1085.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10866.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10866.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10870.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10870.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10872.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10872.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10987.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10987.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10988.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10988.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10989.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10989.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/10996.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/10996.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1100.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11000.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11000.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11024.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11047.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11047.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1105.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1105.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11053.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11053.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11054.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11054.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11098.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11098.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1120.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1120.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11256.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11256.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11365.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11365.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1138.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1138.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11399.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11399.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11403.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11403.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1149.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1149.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11497.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11497.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11501.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11501.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11508.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11508.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11509.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11509.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1152.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1152.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11559.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11559.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1157.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1157.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11575.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11575.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11586.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11586.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1159.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1159.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11650.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11650.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11651.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11651.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11654.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11654.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11656.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11656.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11720.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11720.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11724-unionfind.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11724-unionfind.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11724.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11724.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11725.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11725.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11729.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11729.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1181.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1181.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11816.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11816.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1182.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1182.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1193.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1193.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/11944.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/11944.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/12015.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/12015.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1202.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1202.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/12100.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/12100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1212.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1212.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1213.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1213.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1225.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1225.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1260.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1260.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/12605.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/12605.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/12780.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/12780.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/12782.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/12782.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/12851.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/12851.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1300.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1300.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1316.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1316.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/13163.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/13163.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/13164.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/13164.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/13275.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/13275.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1330.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1330.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/13305.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/13305.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1339.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1339.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/13420.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/13420.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1343.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1343.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/13458.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/13458.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/13460.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/13460.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/13549.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/13549.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1356.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1356.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/13565.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/13565.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1357.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1357.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1371.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1371.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1373.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1373.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1389.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1389.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/13904.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/13904.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/13913.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/13913.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/13985.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/13985.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/14241.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/14241.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1427.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1427.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1436.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1436.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1439.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1439.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/14405.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/14405.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/14425.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/14425.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1449.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1449.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/14499.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/14499.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/14501.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/14501.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/14502.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/14502.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/14503.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/14503.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1461.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1461.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1463.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1463.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/14650.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/14650.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/14659.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/14659.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/14681.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/14681.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/14720.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/14720.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/14754.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/14754.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/14888.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/14888.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/14889.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/14889.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/14890.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/14890.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/14891.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/14891.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/14916.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/14916.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1525.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1525.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1541.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1541.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1543.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1543.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1546.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1546.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/15596.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/15596.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/15649 - python.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/15649 - python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/15649.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/15649.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/15650.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/15650.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/15651.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/15651.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/15652.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/15652.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/15658.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/15658.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/15686.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/15686.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/15813.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/15813.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/15829.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/15829.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/15874.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/15874.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/15903.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/15903.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/15904.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/15904.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/16162.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/16162.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/16189.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/16189.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/16208.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/16208.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/16234.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/16234.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/16236.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/16236.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/16435.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/16435.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1652.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1652.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1654.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1654.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1697.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1697.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1700.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1700.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1707.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1707.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1712.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1712.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1718.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1718.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/17201.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/17201.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/17219.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/17219.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/17249.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/17249.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/17392.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/17392.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/17413.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/17413.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1743.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1743.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1744.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1744.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/17521.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/17521.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1758.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1758.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1764.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1764.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1769.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1769.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1783.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1783.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1786.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1786.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/18258.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/18258.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/18353.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/18353.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/18406.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/18406.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1863.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1863.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1871.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1871.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1874.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1874.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1904.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1904.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1912.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1912.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1919.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1919.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1920.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1920.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1926.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1926.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1929.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1929.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1931.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1931.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1932.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1932.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1937.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1937.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1946.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1946.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1963.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1963.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1976.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1976.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1978.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1978.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/19813.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/19813.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1987.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1987.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1991.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1991.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/20124.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/20124.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/20528.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/20528.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/20540.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/20540.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2108.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2108.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2110.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2110.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2138-응용.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2138-응용.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2138.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2138.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2146.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2146.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2153.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2153.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2156.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2156.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2178.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2178.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2193.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2193.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2206.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2206.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2212.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2212.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2217.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2217.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2231.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2231.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2292.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2292.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2309.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2309.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2386.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2386.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2437.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2437.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2446.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2446.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2447.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2447.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2468.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2468.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2495.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2495.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2504.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2504.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2523.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2523.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2562.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2562.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2563.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2563.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2573.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2573.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2577.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2577.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2579.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2579.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2581.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2581.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2583.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2583.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2589.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2589.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2596.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2596.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2606-bfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2606-bfs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2606-dfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2606-dfs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2608.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2608.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2636.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2636.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2638.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2638.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2644.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2644.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2665.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2665.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2667.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2667.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2671.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2671.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2675.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2675.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2711.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2711.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2712.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2712.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2747.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2747.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2748.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2748.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2750.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2750.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2751.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2751.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2753.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2753.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2775.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2775.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2798.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2798.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2805.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2805.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2810.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2810.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2812.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2812.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2816.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2816.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2828.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2828.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2839.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2839.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2847.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2847.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2865.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2865.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2869.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2869.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2872.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2872.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2891.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2891.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2902.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2902.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2908.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2908.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2935.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2935.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2941.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2941.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/2954.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/2954.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/3009.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/3009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/3028.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/3028.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/3035.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/3035.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/3053.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/3053.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/3055.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/3055.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/3061.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/3061.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/3076.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/3076.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/3184.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/3184.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/3190.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/3190.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/3449.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/3449.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/3613.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/3613.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/4072.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/4072.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/4153.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/4153.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/4179.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/4179.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/4344.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/4344.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/4458.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/4458.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/4470.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/4470.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/4606.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/4606.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/4673.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/4673.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/4796.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/4796.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/4889.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/4889.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/4948.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/4948.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/4949.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/4949.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/4963.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/4963.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/4999.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/4999.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/5014.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/5014.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/5052.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/5052.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/5218.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/5218.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/5373.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/5373.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/5427.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/5427.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/5524.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/5524.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/5543.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/5543.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/5545.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/5545.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/5555.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/5555.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/5567.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/5567.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/5585.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/5585.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/5586.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/5586.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/5622.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/5622.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/5656.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/5656.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/6087.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/6087.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/6593.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/6593.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/6603.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/6603.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/6996.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/6996.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/7562.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/7562.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/7568.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/7568.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/7570.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/7570.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/7576.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/7576.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/7600.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/7600.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/8595.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/8595.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/8949.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/8949.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/8958.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/8958.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/8980.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/8980.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/9009.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/9009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/9012.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/9012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/9020.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/9020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/9046.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/9046.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/9047.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/9047.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/9086.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/9086.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/9095.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/9095.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/9205.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/9205.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/9243.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/9243.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/9251.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/9251.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/9252.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/9252.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/9461.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/9461.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/9466.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/9466.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/9536.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/9536.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SSAFY/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/10-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/10-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/10-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/10-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/3-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/3-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/3-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/3-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/3-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/3-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/3-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/3-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/4-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/4-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/4-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/4-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/4-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/4-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/4-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/4-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/5-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/5-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/5-10 응용.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/5-10 응용.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/5-10.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/5-10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/5-11.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/5-11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/5-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/5-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/5-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/5-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/5-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/5-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/5-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/5-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/5-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/5-7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/5-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/5-8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/5-9 응용.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/5-9 응용.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/5-9.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/5-9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/6-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/6-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/6-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/6-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/6-3 응용.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/6-3 응용.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/6-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/6-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/6-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/6-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/6-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/6-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/6-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/6-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/6-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/6-7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/7-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/7-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/7-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/7-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/7-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/7-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/7-4 set()함수.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/7-4 set()함수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/7-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/7-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/7-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/7-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/8-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/8-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/8-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/8-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/8-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/8-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/8-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/8-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/8-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/8-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/8-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/8-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/8-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/8-7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/8-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/8-8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/8-9.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/8-9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/9-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/9-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/9-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/9-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/DBN/9-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/DBN/9-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/Do it Python/01.slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/Do it Python/01.slicing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/Do it Python/02.formatting.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/Do it Python/02.formatting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/Youtube/01. 단순탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/Youtube/01. 단순탐색.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/Youtube/02. 이진탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/Youtube/02. 이진탐색.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/Youtube/03. 버블정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/Youtube/03. 버블정렬.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/Youtube/04. 재귀.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/Youtube/04. 재귀.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/Youtube/05. 재귀-하노이의탑.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/Youtube/05. 재귀-하노이의탑.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theory/Youtube/06. BFS - 최단경로.py" beforeDir="false" afterPath="$PROJECT_DIR$/theory_Python/Youtube/06. BFS - 최단경로.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -288,6 +673,7 @@
       <workItem from="1612870144004" duration="3449000" />
       <workItem from="1613115720437" duration="144000" />
       <workItem from="1613116511451" duration="3842000" />
+      <workItem from="1613347496402" duration="69000" />
     </task>
     <servers />
   </component>
@@ -367,24 +753,20 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="469" y="176" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1607991665323" />
-    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1613116511549">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="397" y="286" key="com.intellij.ide.util.TipDialog" timestamp="1613347508174">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1613116511549" />
     <state x="529" y="356" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1611097771396" />
     <state x="397" y="298" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1604849176235" />
     <state x="529" y="338" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1604971084844" />
-    <state x="397" y="286" key="com.intellij.ide.util.TipDialog/0.25.1440.875@0.25.1440.875" timestamp="1613115723759" />
+    <state x="397" y="286" key="com.intellij.ide.util.TipDialog/0.25.1440.875@0.25.1440.875" timestamp="1613347508174" />
     <state x="529" y="356" key="com.intellij.ide.util.TipDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1612792254955" />
     <state x="529" y="356" key="com.intellij.ide.util.TipDialog/1920.205.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1612870145157" />
     <state x="72" y="140" width="816" height="825" key="find.popup" timestamp="1610849796210">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="72" y="140" width="816" height="825" key="find.popup/0.25.1920.1055@0.25.1920.1055" timestamp="1610849796210" />
-    <state x="383" y="162" key="new project wizard" timestamp="1604672148110">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="383" y="162" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1604672148110" />
     <state x="445" y="254" width="894" height="814" key="search.everywhere.popup" timestamp="1612798130914">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
