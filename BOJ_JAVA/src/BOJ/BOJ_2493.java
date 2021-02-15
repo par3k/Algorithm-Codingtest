@@ -1,53 +1,37 @@
 package BOJ;
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.Stack;
 import java.util.StringTokenizer;
 
 public class BOJ_2493 {
+    private static int num;
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-
         int N = Integer.parseInt(br.readLine());
 
-        Stack<Integer> stack = new Stack<>();
-        Stack<Integer> idx = new Stack<>();
+        Stack<int []> stack = new Stack<>();
 
         StringTokenizer st = new StringTokenizer(br.readLine());
-        StringBuilder sb = new StringBuilder();
 
-        int first = Integer.parseInt(st.nextToken());
-
-        stack.push(first);
-        idx.push(1);
-        sb.append("0 ");
-
-        for (int i = 2; i < N + 1; i++) {
-            int a = Integer.parseInt(st.nextToken());
-
-//            System.out.println(stack.toString());
+        for (int i = 1; i< N + 1; i++) {
+            num = Integer.parseInt(st.nextToken());
             while (!stack.isEmpty()) {
-                if (a < stack.peek()) {
-                    sb.append(idx.peek() + " ");
+                if (stack.peek()[1] > num) {
+                    System.out.print(stack.peek()[0] + " ");
                     break;
                 }
                 stack.pop();
-                idx.pop();
             }
+
             if (stack.isEmpty()) {
-                sb.append("0 ");
+                System.out.print("0 ");
             }
-            System.out.println(stack.toString());
 
-            stack.push(a);
-            idx.push(i);
+            stack.push(new int[]{i, num});
         }
-
-        bw.write(sb.toString() + "\n");
-
         br.close();
-        bw.flush();
-        bw.close();
     }
 }

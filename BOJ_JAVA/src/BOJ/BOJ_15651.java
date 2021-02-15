@@ -1,40 +1,30 @@
-package BOJ;
+package com.boj;
 
-import java.io.*;
-import java.util.StringTokenizer;
+import java.util.Arrays;
+import java.util.Scanner;
 
-public class BOJ_15651 {
+public class Boj_15651 {
+    private static int[] arr = new int[2];
     private static int N, M;
-    private static int[] arr;
-    static BufferedWriter bw =  new BufferedWriter(new OutputStreamWriter(System.out));
-
-    private static void Recursive(int depth) throws IOException {
-        if (depth == M) {
-            for (int i = 0; i < arr.length; i++) {
-                bw.write(arr[i] + " ");
+    private static void Recursive (int depth) {
+        if (depth == 2) {
+            for (int i = 0; i <depth; i++) {
+                System.out.println(Arrays.toString(arr));
             }
-            bw.write("\n");
-            return;
         }
-
         for (int i = 1; i <= N; i++) {
-            arr[depth] = i;
-            Recursive(depth + 1);
+            for (int j = 1; j <= M; j++) {
+                arr[depth] = i;
+                Recursive(depth + 1);
+            }
         }
     }
 
-    public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine());
-
-        N = Integer.parseInt(st.nextToken());
-        M = Integer.parseInt(st.nextToken());
-        arr = new int[M];
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        N = Integer.parseInt(sc.next());
+        M = Integer.parseInt(sc.next());
 
         Recursive(0);
-
-        br.close();
-        bw.flush();
-        bw.close();
     }
 }

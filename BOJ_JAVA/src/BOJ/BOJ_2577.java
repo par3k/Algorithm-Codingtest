@@ -1,26 +1,25 @@
 package BOJ;
 
-import java.io.*;
+import java.util.Scanner;
 
 public class BOJ_2577 {
-    public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int A = sc.nextInt();
+        int B = sc.nextInt();
+        int C = sc.nextInt();
+        int result = A * B * C;
+        int[] ans = new int[10];
 
-        int a = Integer.parseInt(br.readLine());
-        int b = Integer.parseInt(br.readLine());
-        int c = Integer.parseInt(br.readLine());
-
-        int sum = a * b * c;
-        int[] cnt = new int[10];
-
-        while (sum > 0) {
-            cnt[sum % 10]++;
-            sum /= 10;
+        while (result > 0) {
+            ans[result % 10]++;
+            result /= 10;
         }
 
-        for (int i = 0; i < cnt.length; i++) {
-            System.out.println(cnt[i]);
+        for (int i : ans) {
+            System.out.println(i);
         }
-        br.close();
+
+        sc.close();
     }
 }

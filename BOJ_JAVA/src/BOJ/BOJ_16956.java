@@ -60,4 +60,3 @@ public class BOJ_16956 {
         }
     }
 }
-
