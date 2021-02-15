@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 
 public class BOJ_8979 {
     private static int N, K;
-    private static ArrayList<Node> arr = new ArrayList<>();;
+    private static ArrayList<Node2> arr = new ArrayList<>();;
     private static int end_point = 0;
 
     public static void main(String[] args) throws IOException {
@@ -25,7 +25,7 @@ public class BOJ_8979 {
             int gold = Integer.parseInt(st.nextToken());
             int silver = Integer.parseInt(st.nextToken());
             int bronze = Integer.parseInt(st.nextToken());
-            arr.add(new Node(no, gold, silver, bronze, 0));
+            arr.add(new Node2(no, gold, silver, bronze, 0));
         }
         Collections.sort(arr);
         arr.get(0).rank = 1;
@@ -34,7 +34,7 @@ public class BOJ_8979 {
             int tmp_gold = arr.get(i - 1).gold;
             int tmp_silver = arr.get(i - 1).silver;
             int tmp_bronze = arr.get(i - 1).bronze;
-            Node now = arr.get(i);
+            Node2 now = arr.get(i);
 
             if (arr.get(i).no == K) {
                 end_point = i;
@@ -49,14 +49,14 @@ public class BOJ_8979 {
     }
 }
 
-class Node implements Comparable<Node> {
+class Node2 implements Comparable<Node2> {
     int no;
     int gold;
     int silver;
     int bronze;
     int rank;
 
-    public Node(int no, int gold, int silver, int bronze, int rank) {
+    public Node2(int no, int gold, int silver, int bronze, int rank) {
         this.no = no;
         this.gold = gold;
         this.silver = silver;
@@ -65,7 +65,7 @@ class Node implements Comparable<Node> {
     }
 
     @Override
-    public int compareTo(Node o) {
+    public int compareTo(Node2 o) {
         if (this.gold == o.gold) {
             if (this.silver == o.silver) {
                 return o.bronze - this.bronze;
