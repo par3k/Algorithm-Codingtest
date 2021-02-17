@@ -28,7 +28,9 @@ public class BOJ_3985 {
                     actually[i]++;
                 }
             }
+
         }
+
         int perIdx = 0;
         int actIdx = 0;
         int perMax = 0;
@@ -47,6 +49,7 @@ public class BOJ_3985 {
                 actIdx = i + 1;
             }
         }
+
         System.out.println(perIdx);
         System.out.println(actIdx);
         br.close();
