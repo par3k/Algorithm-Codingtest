@@ -6,6 +6,7 @@ for tc in range(int(input())):
     for need_pe, pe_cnt in enumerate(a):
         pe_cnt = int(pe_cnt)
         if need_pe <= people:
+            
             people += pe_cnt
         else:
             ans += need_pe - people
