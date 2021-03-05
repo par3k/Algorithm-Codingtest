@@ -16,7 +16,6 @@ public class BOJ_14697 {
         int N = Integer.parseInt(st.nextToken());
 
         int ans = 0;
-
         for (int i = 0 ; i <= 50; i++) {
             for (int j = 0 ; j <= 50; j++) {
                 for (int k = 0 ; k <= 50; k++) {
