@@ -39,6 +39,7 @@ public class BOJ_16562 {
 
         money = new int[N + 1];
         money[0] = 0;
+
         StringTokenizer st = new StringTokenizer(br.readLine());
         for (int i = 1 ; i <= N; i++) {
             money[i] = Integer.parseInt(st.nextToken());
@@ -57,6 +58,7 @@ public class BOJ_16562 {
                 ans += money[i];
             }
         }
+
         if (K - ans < 0) {
             System.out.println("Oh no");
         } else {
