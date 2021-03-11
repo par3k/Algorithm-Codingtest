@@ -37,7 +37,6 @@ public class Solution_1949 {
         }
     }
 
-
     private static void Solution() {
         for (int i = 0; i < N; i++) {
             for (int j = 0 ;j  < N; j++) {
@@ -49,8 +48,6 @@ public class Solution_1949 {
             }
         }
     }
-
-
 
     private static void input() throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -64,7 +61,6 @@ public class Solution_1949 {
             maxLen = maxHigh = 0;
             graph = new int[N][N];
             visited = new boolean[N][N];
-
 
             for (int i = 0 ; i < N; i++) {
                 StringTokenizer st = new StringTokenizer(br.readLine());
@@ -80,7 +76,6 @@ public class Solution_1949 {
         }
         System.out.println(sb.toString());
         br.close();
-
     }
 
     public static void main(String[] args) throws Exception {
