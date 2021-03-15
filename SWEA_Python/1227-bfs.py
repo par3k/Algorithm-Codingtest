@@ -1,5 +1,6 @@
 # 미로 2
 from collections import deque
+dx, dy = [-1, 1, 0, 0], [0, 0, -1, 1]
 
 
 def bfs(x, y):

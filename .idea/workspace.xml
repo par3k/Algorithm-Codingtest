@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf8a75fd-1e37-4738-9eff-eb8335fce640" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SWEA_Python/1227.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA_Python/1227-bfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA_Python/1227-bfs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -294,7 +293,7 @@
       <workItem from="1615211490611" duration="1537000" />
       <workItem from="1615272323423" duration="805000" />
       <workItem from="1615678701860" duration="1490000" />
-      <workItem from="1615697262832" duration="2983000" />
+      <workItem from="1615697262832" duration="3136000" />
     </task>
     <servers />
   </component>
