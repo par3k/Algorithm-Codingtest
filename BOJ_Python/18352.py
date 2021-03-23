@@ -27,7 +27,7 @@ while queue:
 for i in range(n + 1):
     if visited[i] == k:
         ans.append(i)
-        
+
 ans = sorted(ans)
 
 if len(ans) == 0:
