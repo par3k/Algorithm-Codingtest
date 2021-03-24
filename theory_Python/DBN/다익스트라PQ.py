@@ -1,6 +1,6 @@
 import heapq, sys
 input = lambda :sys.stdin.readline().rstrip()
-INF = int(1e9)
+INF = 1234567890
 
 n, m = map(int, input().split())
 start = int(input())
