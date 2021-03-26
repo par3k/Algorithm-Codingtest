@@ -1,3 +1,5 @@
+# 최소 스패닝 트리
+# 27719041	hoijae0194	 1197	맞았습니다!!	53136	448	Python 3 / 수정	798
 import sys
 input = lambda : sys.stdin.readline().rstrip()
 
