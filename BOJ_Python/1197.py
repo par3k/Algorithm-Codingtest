@@ -1,10 +1,10 @@
 import sys
-input = lambda :sys.stdin.readline().rstrip()
+input = lambda : sys.stdin.readline().rstrip()
 
 v, e = map(int, input().split())
 edges = [list(map(int, input().split())) for _ in range(e)]
 
-edges.sort(key= lambda x : x[2])
+edges.sort(key = lambda x : x[2])
 parent = {}
 
 for i in range(v):
