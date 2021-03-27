@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf8a75fd-1e37-4738-9eff-eb8335fce640" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/theory_Python/SSAFY/가장긴증가하는부분수열.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ee.py" beforeDir="false" />
     </list>
@@ -367,7 +366,7 @@
       <workItem from="1616632069665" duration="2565000" />
       <workItem from="1616639034665" duration="1143000" />
       <workItem from="1616756065409" duration="11912000" />
-      <workItem from="1616850723018" duration="617000" />
+      <workItem from="1616850723018" duration="1048000" />
     </task>
     <servers />
   </component>
