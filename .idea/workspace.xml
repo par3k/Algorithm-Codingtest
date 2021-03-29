@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf8a75fd-1e37-4738-9eff-eb8335fce640" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BOJ_Python/14923.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ee.py" beforeDir="false" />
     </list>
@@ -48,29 +49,7 @@
       <recent name="$PROJECT_DIR$/theory" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1504">
-    <configuration name="유니온파인드" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codingtest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/theory_Python/SSAFY" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/theory_Python/SSAFY/유니온파인드.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.14923">
     <configuration name="1197" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,6 +86,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_Python/1238.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="14923" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ_Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_Python/14923.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.14923" />
         <item itemvalue="Python.1504" />
         <item itemvalue="Python.1238" />
         <item itemvalue="Python.1197" />
         <item itemvalue="Python.17836" />
-        <item itemvalue="Python.유니온파인드" />
       </list>
     </recent_temporary>
   </component>
@@ -367,6 +368,7 @@
       <workItem from="1616639034665" duration="1143000" />
       <workItem from="1616756065409" duration="11912000" />
       <workItem from="1616850723018" duration="1048000" />
+      <workItem from="1617022230048" duration="3188000" />
     </task>
     <servers />
   </component>
@@ -382,8 +384,8 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="100" y="100" width="462" height="880" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1609041705595" />
-    <state width="1398" height="282" key="GridCell.Tab.0.bottom" timestamp="1616768538421">
-      <screen x="582" y="1080" width="1440" height="900" />
+    <state width="1398" height="282" key="GridCell.Tab.0.bottom" timestamp="1617026508213">
+      <screen x="582" y="1105" width="1440" height="875" />
     </state>
     <state width="528" height="283" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1616463811012" />
     <state width="683" height="345" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1612615536166" />
@@ -395,9 +397,10 @@
     <state width="842" height="332" key="GridCell.Tab.0.bottom/1920.205.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1612875837285" />
     <state width="1398" height="282" key="GridCell.Tab.0.bottom/582.1080.1440.900/0.0.2560.1080@582.1080.1440.900" timestamp="1616768538421" />
     <state width="1398" height="282" key="GridCell.Tab.0.bottom/582.1080.1440.900/0.25.2560.1055@582.1080.1440.900" timestamp="1616759845202" />
-    <state width="1398" height="283" key="GridCell.Tab.0.bottom/582.1105.1440.875/0.25.2560.1055@0.25.2560.1055" timestamp="1616584544057" />
-    <state width="1398" height="282" key="GridCell.Tab.0.center" timestamp="1616768538419">
-      <screen x="582" y="1080" width="1440" height="900" />
+    <state width="2518" height="282" key="GridCell.Tab.0.bottom/582.1105.1440.875/0.25.2560.1055@0.25.2560.1055" timestamp="1617024803312" />
+    <state width="1398" height="282" key="GridCell.Tab.0.bottom/582.1105.1440.875/0.25.2560.1055@582.1105.1440.875" timestamp="1617026508213" />
+    <state width="1398" height="282" key="GridCell.Tab.0.center" timestamp="1617026508212">
+      <screen x="582" y="1105" width="1440" height="875" />
     </state>
     <state width="528" height="283" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1616463811011" />
     <state width="683" height="345" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1612615536164" />
@@ -409,9 +412,10 @@
     <state width="842" height="332" key="GridCell.Tab.0.center/1920.205.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1612875837284" />
     <state width="1398" height="282" key="GridCell.Tab.0.center/582.1080.1440.900/0.0.2560.1080@582.1080.1440.900" timestamp="1616768538419" />
     <state width="1398" height="282" key="GridCell.Tab.0.center/582.1080.1440.900/0.25.2560.1055@582.1080.1440.900" timestamp="1616759845200" />
-    <state width="1398" height="283" key="GridCell.Tab.0.center/582.1105.1440.875/0.25.2560.1055@0.25.2560.1055" timestamp="1616584544056" />
-    <state width="1398" height="282" key="GridCell.Tab.0.left" timestamp="1616768538418">
-      <screen x="582" y="1080" width="1440" height="900" />
+    <state width="2518" height="282" key="GridCell.Tab.0.center/582.1105.1440.875/0.25.2560.1055@0.25.2560.1055" timestamp="1617024803311" />
+    <state width="1398" height="282" key="GridCell.Tab.0.center/582.1105.1440.875/0.25.2560.1055@582.1105.1440.875" timestamp="1617026508212" />
+    <state width="1398" height="282" key="GridCell.Tab.0.left" timestamp="1617026508211">
+      <screen x="582" y="1105" width="1440" height="875" />
     </state>
     <state width="528" height="283" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1616463811010" />
     <state width="683" height="345" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1612615536164" />
@@ -423,9 +427,10 @@
     <state width="842" height="332" key="GridCell.Tab.0.left/1920.205.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1612875837284" />
     <state width="1398" height="282" key="GridCell.Tab.0.left/582.1080.1440.900/0.0.2560.1080@582.1080.1440.900" timestamp="1616768538418" />
     <state width="1398" height="282" key="GridCell.Tab.0.left/582.1080.1440.900/0.25.2560.1055@582.1080.1440.900" timestamp="1616759845199" />
-    <state width="1398" height="283" key="GridCell.Tab.0.left/582.1105.1440.875/0.25.2560.1055@0.25.2560.1055" timestamp="1616584544055" />
-    <state width="1398" height="282" key="GridCell.Tab.0.right" timestamp="1616768538420">
-      <screen x="582" y="1080" width="1440" height="900" />
+    <state width="2518" height="282" key="GridCell.Tab.0.left/582.1105.1440.875/0.25.2560.1055@0.25.2560.1055" timestamp="1617024803310" />
+    <state width="1398" height="282" key="GridCell.Tab.0.left/582.1105.1440.875/0.25.2560.1055@582.1105.1440.875" timestamp="1617026508211" />
+    <state width="1398" height="282" key="GridCell.Tab.0.right" timestamp="1617026508212">
+      <screen x="582" y="1105" width="1440" height="875" />
     </state>
     <state width="528" height="283" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1616463811012" />
     <state width="683" height="345" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1612615536165" />
@@ -437,7 +442,8 @@
     <state width="842" height="332" key="GridCell.Tab.0.right/1920.205.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1612875837285" />
     <state width="1398" height="282" key="GridCell.Tab.0.right/582.1080.1440.900/0.0.2560.1080@582.1080.1440.900" timestamp="1616768538420" />
     <state width="1398" height="282" key="GridCell.Tab.0.right/582.1080.1440.900/0.25.2560.1055@582.1080.1440.900" timestamp="1616759845201" />
-    <state width="1398" height="283" key="GridCell.Tab.0.right/582.1105.1440.875/0.25.2560.1055@0.25.2560.1055" timestamp="1616584544056" />
+    <state width="2518" height="282" key="GridCell.Tab.0.right/582.1105.1440.875/0.25.2560.1055@0.25.2560.1055" timestamp="1617024803311" />
+    <state width="1398" height="282" key="GridCell.Tab.0.right/582.1105.1440.875/0.25.2560.1055@582.1105.1440.875" timestamp="1617026508212" />
     <state width="931" height="370" key="GridCell.Tab.1.bottom" timestamp="1616412366457">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
@@ -466,8 +472,8 @@
       <screen x="582" y="1080" width="1440" height="900" />
     </state>
     <state x="934" y="1227" key="SettingsEditor/582.1080.1440.900/0.0.2560.1080@582.1080.1440.900" timestamp="1616501042654" />
-    <state x="397" y="286" key="com.intellij.ide.util.TipDialog" timestamp="1616850750716">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state x="706" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1617023788299">
+      <screen x="0" y="25" width="2560" height="1055" />
     </state>
     <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1614431055004" />
     <state x="529" y="356" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1611097771396" />
@@ -476,7 +482,7 @@
     <state x="706" y="340" key="com.intellij.ide.util.TipDialog/0.25.2560.1055@0.25.2560.1055" timestamp="1616632069988" />
     <state x="529" y="356" key="com.intellij.ide.util.TipDialog/1920.205.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1612870145157" />
     <state x="706" y="338" key="com.intellij.ide.util.TipDialog/582.1080.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1615211491638" />
-    <state x="706" y="340" key="com.intellij.ide.util.TipDialog/582.1105.1440.875/0.25.2560.1055@0.25.2560.1055" timestamp="1616756065755" />
+    <state x="706" y="340" key="com.intellij.ide.util.TipDialog/582.1105.1440.875/0.25.2560.1055@0.25.2560.1055" timestamp="1617023788299" />
     <state x="96" y="118" width="1088" height="845" key="find.popup" timestamp="1616221056630">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
@@ -565,6 +571,7 @@
     <SUITE FILE_PATH="coverage/codingtest$2712.coverage" NAME="2712 Coverage Results" MODIFIED="1610494134874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$17201.coverage" NAME="17201 Coverage Results" MODIFIED="1612797146246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$11586.coverage" NAME="11586 Coverage Results" MODIFIED="1606194585875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/codingtest$14923.coverage" NAME="14923 Coverage Results" MODIFIED="1617026508200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ_Python" />
     <SUITE FILE_PATH="coverage/codingtest$2711.coverage" NAME="2711 Coverage Results" MODIFIED="1604903145950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$12782.coverage" NAME="12782 Coverage Results" MODIFIED="1608288315694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$1717.coverage" NAME="1717 Coverage Results" MODIFIED="1615212050388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ_Python" />
