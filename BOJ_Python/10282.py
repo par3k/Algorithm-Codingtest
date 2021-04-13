@@ -3,7 +3,6 @@ import heapq, sys
 input = lambda :sys.stdin.readline().rstrip()
 INF = int(1e9)
 
-
 def dijikstra(start):
     queue = list()
     heapq.heappush(queue, (0, start))
@@ -29,10 +28,11 @@ for _ in range(int(input())):
         graph[b].append([a, s])
 
     dijikstra(c)
-    cnt = 0
-    ans = 0
+    cnt, ans = 0, 0
+
     for i in range(1, len(distance)):
         if distance[i] != INF:
             cnt += 1
             ans = max(ans, distance[i])
+
     print(cnt, ans)
