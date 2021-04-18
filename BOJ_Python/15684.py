@@ -1,31 +1,53 @@
-# 드래곤 커브
+# 사다리 조작
 import sys
-input = lambda : sys.stdin.readline().rstrip()
-dx, dy = [1, 0, -1, 0], [0, -1, 0, 1] # 우 상 좌 하
+input = lambda :sys.stdin.readline().rstrip()
+sys.setrecursionlimit(100000)
 
-n = int(input())
-graph = [[0] * 101 for _ in range(101)]
+n, m, h = map(int, input().split())
+board = [[False] * n for _ in range(h)]
+if m == 0:
+    print(0)
+    exit(0)
+for _ in range(m):
+    a, b = map(int, input().split())
+    board[a - 1][b - 1] = True
 
-for _ in range(n):
-    x, y, d, g = map(int, input().split()) # x, y 좌표, 방향, 세대
-    graph[x][y] = 1
-    direction = [d]
-    for _ in range(g): # 세대만큼 반복
-        tmp = list()
-        for i in range(len(direction)):
-            tmp.append((direction[- i - 1] + 1) % 4)
-        direction.extend(tmp)
-        print(direction)
-    for i in range(4):
-        nx, ny = x + dx[i], y + dy[i]
-        graph[nx][ny] = 1
-        x, y = nx, ny
 
-ans = 0
-for i in range(100):
-    for j in range(100):
-        if graph[i][j]:
-            if graph[i + 1][j] and graph[i][j + 1] and graph[i + 1][j + 1]:
-                ans += 1
+def checkBoard():
+    for start in range(n):
+        k = start
+        for j in range(h):
+            if board[j][k]:
+                k += 1
+            elif k > 0 and board[j][k - 1]:
+                k -= 1
+        if k != start: return False
+    return True
 
-print(ans)
+
+def dfs(depth, x, y):
+    global answer
+    if checkBoard():
+        answer = min(answer, depth)
+        return
+    elif depth == 3 or answer <= depth:
+        return
+
+    for i in range(x, h):
+        if i == x:
+            k = y
+        else:
+            k = 0
+
+        for j in range(k, n - 1):
+            if not board[i][j] and not board[i][j + 1]:
+                if j > 0 and board[i][j - 1]:
+                    continue
+                board[i][j] = True
+                dfs(depth + 1, i, j + 2)
+                board[i][j] = False
+
+
+answer = 4
+dfs(0, 0, 0)
+print(answer if answer < 4 else -1)
