@@ -19,7 +19,6 @@ def dijikstra(start):
             if distance[i[0]] > cost2:
                 distance[i[0]] = cost2
                 heappush(queue, (cost2, i[0]))
-
     return distance
 
 
