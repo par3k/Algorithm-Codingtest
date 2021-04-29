@@ -25,7 +25,7 @@ for i in range(1, v+1):
     parent[i] = i
 
 arr = [list(map(int, input().split())) for _ in range(e)]
-arr.sort(key=lambda x:min(x))
+arr.sort(key=lambda x : min(x))
 
 for i in arr:
     a, b = i
