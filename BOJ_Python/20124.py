@@ -3,7 +3,7 @@ import sys
 input = lambda : sys.stdin.readline().rstrip()
 
 max = 0
-ans = 'zzzzzzzzz'
+ans = ''
 
 for i in range(int(input())):
     name, score = input().split()
