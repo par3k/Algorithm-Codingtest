@@ -37,9 +37,3 @@ def bfs():
 
 res = bfs()
 print("Fail" if(res > t) else res)
-
-# for i in range(n):
-#     for j in range(m):
-#         print(visited[i][j], end=' ')
-#     print()
-
