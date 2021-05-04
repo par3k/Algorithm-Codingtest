@@ -1,7 +1,6 @@
 # 태보태보 총난타
 import sys
 n = sys.stdin.readline().rstrip()
-
 l_cnt, r_cnt, start = 0, 0, 0
 
 for i in range(start, len(n)):
