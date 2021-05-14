@@ -6,7 +6,6 @@ n = int(input())
 k = int(input())
 
 start, end = 1, k
-
 while start <= end:
     mid = (start + end) // 2
     tmp = 0
