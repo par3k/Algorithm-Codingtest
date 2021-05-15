@@ -1,6 +1,5 @@
 import sys
 input = lambda :sys.stdin.readline().rstrip()
-
 graph = [[0] * 100 for _ in range(100)]
 
 n = int(input())
