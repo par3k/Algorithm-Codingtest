@@ -2,6 +2,7 @@ import sys
 n = list(map(str, sys.stdin.readline().rstrip()))
 
 text_len = len(n)
+
 R, C = 0, 0
 tmp = list()
 
