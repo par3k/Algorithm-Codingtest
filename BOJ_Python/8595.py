@@ -5,7 +5,6 @@ input = lambda : sys.stdin.readline().rstrip()
 number = '0123456789'
 n = int(input())
 s = input()
-
 tmp = ''
 ans = 0
 
