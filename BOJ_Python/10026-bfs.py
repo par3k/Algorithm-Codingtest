@@ -4,7 +4,6 @@ input = lambda :sys.stdin.readline().rstrip()
 
 n = int(input())
 graph = [list(input().upper()) for _ in range(n)]
-
 dx, dy = [-1, 1, 0, 0], [0, 0, -1, 1]
 
 
