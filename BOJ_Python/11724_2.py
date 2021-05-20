@@ -1,3 +1,6 @@
+import sys
+input = lambda : sys.stdin.readline().rstrip()
+
 n, m = map(int, input().split())
 parent = [i for i in range(1, n + 1)]
 graph = [list(map(int, input().split())) for _ in range(m)]
