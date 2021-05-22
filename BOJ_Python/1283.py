@@ -24,6 +24,7 @@ for _ in range(int(input())):
             tmp.append(i.replace(i[0], '[' + i[0] + ']', 1))
             dic[i[0].upper()] += 1
             flag = True
+            print(dic)
 
     if cnt == len(s):
         tmp = []
