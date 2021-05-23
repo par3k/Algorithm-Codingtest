@@ -22,6 +22,7 @@ for _ in range(int(input())):
             tmp.append(i)
         elif i[0].upper() not in dic and not flag:
             tmp.append(i.replace(i[0], '[' + i[0] + ']', 1))
+            print(tmp)
             dic[i[0].upper()] += 1
             flag = True
             print(dic)
