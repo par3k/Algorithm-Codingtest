@@ -86,9 +86,5 @@ for i in range(n):
         if graph[i][j] == 1:
             bfs((i, j), graph, continent_num)
             continent_num += 1
-# for i in range(n):
-#     for j in range(m):
-#         print(graph[i][j], end=' ')
-#     print()
-print(get_min_distance(get_distance(graph), set(range(2, continent_num))))
 
+print(get_min_distance(get_distance(graph), set(range(2, continent_num))))
