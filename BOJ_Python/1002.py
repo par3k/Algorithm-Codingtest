@@ -1,5 +1,4 @@
 # 터렛
-
 import math
 
 T = int(input())
