@@ -1,5 +1,4 @@
 # 피보나치 함수
-
 import sys
 input = lambda : sys.stdin.readline().rstrip()
 
