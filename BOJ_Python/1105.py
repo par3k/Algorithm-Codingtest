@@ -12,4 +12,5 @@ for i in range(len(A)):
             ret += 1
     else:
         break
+        
 print(ret)
