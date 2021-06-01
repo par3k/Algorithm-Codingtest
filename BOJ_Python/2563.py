@@ -1,5 +1,4 @@
 # 색종이
-
 import sys
 input = lambda : sys.stdin.readline().rstrip()
 
