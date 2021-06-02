@@ -1,5 +1,4 @@
 # 소수
-
 M = int(input())
 N = int(input())
 
