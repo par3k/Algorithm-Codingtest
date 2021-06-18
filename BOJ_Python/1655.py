@@ -9,13 +9,12 @@ for _ in range(int(input())):
         heapq.heappush(max, (-a, a))
     else:
         heapq.heappush(min, (a, a))
-    print(max, min)
+
     if len(max) >= 1 and len(min) >= 1 and max[0][1] > min[0][1]:
         max_val, min_val = heapq.heappop(max)[1], heapq.heappop(min)[1]
-        heapq.heappush(max, (-min_val, min_val))
-        heapq.heappush(min, (max_val, max_val))
+        heapq.heappush(max, (-max_val, max_val))
+        heapq.heappush(min, (min_val, min_val))
     print(max[0][1])
-
 
 # arr, tmp = [], []
 # for _ in range(int(input())):
