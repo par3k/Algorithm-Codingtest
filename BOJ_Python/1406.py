@@ -24,5 +24,5 @@ while T:
 ans = left
 while len(right):
     ans.append(right.pop())
-    
+
 print(''.join(ans))
