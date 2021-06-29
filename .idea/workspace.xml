@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf8a75fd-1e37-4738-9eff-eb8335fce640" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ_Python/1753_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ_Python/1753_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_Python/1753_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -342,7 +342,7 @@
       <workItem from="1622642165514" duration="13616000" />
       <workItem from="1623062533656" duration="21132000" />
       <workItem from="1623241432781" duration="86280000" />
-      <workItem from="1624869971009" duration="8415000" />
+      <workItem from="1624869971009" duration="10092000" />
     </task>
     <servers />
   </component>
@@ -449,7 +449,7 @@
     <SUITE FILE_PATH="coverage/codingtest$2608.coverage" NAME="2608 Coverage Results" MODIFIED="1610581155362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$2954.coverage" NAME="2954 Coverage Results" MODIFIED="1606896422065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$2605.coverage" NAME="2605 Coverage Results" MODIFIED="1615869873042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ_Python" />
-    <SUITE FILE_PATH="coverage/codingtest$1753_3.coverage" NAME="1753_3 Coverage Results" MODIFIED="1624891625531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ_Python" />
+    <SUITE FILE_PATH="coverage/codingtest$1753_3.coverage" NAME="1753_3 Coverage Results" MODIFIED="1624953508910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ_Python" />
     <SUITE FILE_PATH="coverage/codingtest$11024.coverage" NAME="11024 Coverage Results" MODIFIED="1607846365056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
     <SUITE FILE_PATH="coverage/codingtest$1406.coverage" NAME="1406 Coverage Results" MODIFIED="1624522097389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ_Python" />
     <SUITE FILE_PATH="coverage/codingtest$.coverage" NAME="우선순위큐를이용한다익스트라 Coverage Results" MODIFIED="1618280909837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theory_Python/SSAFY" />
