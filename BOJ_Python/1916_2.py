@@ -1,6 +1,7 @@
 # 최소비용 구하기
 import heapq, sys
 input = lambda :sys.stdin.readline().rstrip()
+
 n = int(input())
 m = int(input())
 graph = [[] for _ in range(n + 1)]
@@ -22,9 +23,11 @@ def dijikstra(start):
         if distance[c_node] < c_weight:
             continue
         for n_node, n_weight in graph[c_node]:
-            if distance[n_node] > c_weight + n_weight:
-                distance[n_node] = c_weight + n_weight
-                heapq.heappush(heqp, (c_weight + n_weight, n_node))
+            cost = c_weight + n_weight
+            if distance[n_node] > cost:
+                distance[n_node] = cost
+                heapq.heappush(heqp, (cost, n_node))
+
 
 dijikstra(start)
 print(distance[end])
