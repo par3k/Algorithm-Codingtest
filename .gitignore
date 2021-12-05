@@ -1,2 +1,5 @@
 
 *.xml
+.idea/workspace.xml
+.idea/misc.xml
+.idea/codingtest.iml

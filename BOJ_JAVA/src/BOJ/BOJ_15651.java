@@ -3,7 +3,7 @@ package BOJ;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Boj_15651 {
+class Boj_15651 {
     private static int[] arr = new int[2];
     private static int N, M;
     private static void Recursive (int depth) {
