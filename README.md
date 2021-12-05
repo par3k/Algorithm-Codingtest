@@ -4,4 +4,11 @@ and you can read my algorithm review on my Blog.</br>
 https://par3k.tistory.com
 
 ## Git Commit MSG Convention as Follow
-```[yy.mm.dd/MSG] description```
+```
+[yy.mm.dd/language] description
+
+* yy.mm.dd : Commit date
+* language : Java or Python
+* description : Message
+
+```
