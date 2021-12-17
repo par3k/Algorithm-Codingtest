@@ -1,6 +1,14 @@
-# Algorithm-Codingtest
-Study for Coding Test
+# Algorithm-CodingTest
+Study for coding test</br>
+and you can read my algorithm review on my Blog.</br>
+https://par3k.tistory.com
 
-You can read My Algorithm Review on my Blog.</br>
+## Git Commit MSG Convention as Follow
+```
+[yy.mm.dd/language] description
 
-Link : https://par3k.tistory.com
+* yy.mm.dd : Commit date
+* language : Java or Python
+* description : Message
+
+```
