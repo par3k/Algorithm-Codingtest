@@ -1,9 +1,7 @@
 # N과 M(3)
-import sys
 
-n, m = map(int, sys.stdin.readline().split())
-
-ans = [0] * (n + 1)
+n, m = map(int, input().split())
+ans = [0] * m
 
 def recursive(depth):
     if depth == m:
@@ -11,7 +9,7 @@ def recursive(depth):
             print(ans[i], end=' ')
         print()
         return
-    
+
     for i in range(1, n + 1):
         ans[depth] = i
         recursive(depth + 1)
