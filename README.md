@@ -5,10 +5,9 @@ https://par3k.tistory.com
 
 ## Git Commit MSG Convention as Follow
 ```
-[yy.mm.dd/language] description
+[yy.mm.dd] description
 
 * yy.mm.dd : Commit date
-* language : Java or Python
 * description : Message
 
 ```
