@@ -1,4 +1,6 @@
 # N과 M(3)
+import sys
+sys.setrecursionlimit(10 ** 6)
 
 n, m = map(int, input().split())
 ans = [0] * m
