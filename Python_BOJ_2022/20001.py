@@ -2,7 +2,6 @@
 
 import sys
 arr = []
-
 while True:
     s = sys.stdin.readline().rstrip()
     if s == "고무오리 디버깅 끝":
