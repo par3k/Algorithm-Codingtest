@@ -1,25 +1,21 @@
 # 괄호
-
-def check(arr):
+def solution(data):
     tmp = []
-
-    for i in range(len(arr)):
-        if arr[i] == '(':
-            tmp.append(arr[i])
-        else:
-            if len(tmp) == 0:
-                print('NO')
-                return
-            else:
+    for i in range(len(data)):
+        if data[i] == '(':
+            tmp.append(data[i])
+        elif data[i] == ')':
+            if len(tmp):
                 tmp.pop()
-
-    if len(tmp) == 0:
-        print('YES')
+            else:
+                print("NO")
+                return
+    if len(tmp):
+        print("NO")
         return
     else:
-        print('NO')
+        print("YES")
         return
-
-
+            
 for _ in range(int(input())):
-    check(input())
+    solution(list(input()))
