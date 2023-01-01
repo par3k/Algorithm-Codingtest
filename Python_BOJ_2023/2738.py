@@ -17,5 +17,5 @@ for i in range(n):
 
 for i in range(1, len(ans) + 1):
     print(ans[i - 1], end=" ")
-    if i % 3 == 0:
+    if i % m == 0:
         print()
