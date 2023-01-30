@@ -3,3 +3,9 @@
 .idea/workspace.xml
 .idea/misc.xml
 .idea/codingtest.iml
+*.class
+*.xml
+BOJ_JAVA/.idea/misc.xml
+BOJ_JAVA/.DS_Store
+.DS_Store
+theory_Python/.DS_Store
