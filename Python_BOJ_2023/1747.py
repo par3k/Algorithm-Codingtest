@@ -4,22 +4,16 @@ n = int(input())
 
 def chk_primarynum(num):
     sqrt_num = int(math.sqrt(num))
-    if num <= 1:
-        return False # 소수가 아님
+    if num == 1:
+        return False
 
-    if num % 2 == 0:
-        if num == 2:
-            return True
-        else:
-            return False
-
-    for i in range(3, sqrt_num):
+    for i in range(2, sqrt_num + 1):
         if num % i == 0:
             return False # 소수가 아님
     return True # 소수임
 
 def chk_pelindrome(num):
-    val = list(map(str, str(num)))
+    val = str(num)
     reverse_val = val[::-1]
 
     if val == reverse_val:
@@ -27,7 +21,8 @@ def chk_pelindrome(num):
     else:
         return False # 팰린드롬이 아님
 
-for i in range(n, 10 ** 6):
-    if chk_pelindrome(i) and chk_primarynum(i):
-        print(i)
+while True:
+    if chk_pelindrome(n) and chk_primarynum(n):
+        print(n)
         exit()
+    n += 1
