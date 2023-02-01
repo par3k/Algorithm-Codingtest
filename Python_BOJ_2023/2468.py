@@ -2,6 +2,7 @@
 from collections import deque
 import sys
 input = lambda: sys.stdin.readline()
+
 n = int(input())
 graph = [list(map(int, input().split())) for _ in range(n)]
 max_height = max(max(graph))
@@ -39,6 +40,7 @@ while max_height > 0:
     
     answer.append(cnt_building)
     max_height -= 1
+    
     decreasing_height()
 
 print(max(answer))
