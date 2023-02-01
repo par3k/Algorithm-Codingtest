@@ -15,4 +15,3 @@ for val in tmp:
 arr = sorted(arr.items())
 for key, val in arr:
     print(key, val)
-
