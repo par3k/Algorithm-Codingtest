@@ -1,10 +1,13 @@
 # 점프 점프
+import sys
+sys.setrecursionlimit(10 ** 6)
 
 n = int(input())
 arr = list(map(int, input().split()))
 s = int(input()) - 1
 visited = [False] * n
-ans = 0
+ans = 1
+
 def dfs(x):
     global ans
     for nx in (x + arr[x], x - arr[x]):
