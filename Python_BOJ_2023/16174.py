@@ -1,4 +1,6 @@
 # 점프왕 쩰리(Large)
+import sys
+sys.setrecursionlimit(10 ** 6)
 
 n = int(input())
 graph = [list(map(int, input().split())) for _ in range(n)]
