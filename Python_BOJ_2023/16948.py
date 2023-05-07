@@ -11,6 +11,7 @@ dx, dy = [-2, -2, 0, 0, 2, 2], [-1, 1, -2, 2, -1, 1]
 def bfs(x, y):
     queue = deque()
     queue.append((x, y))
+    graph[x][y] = 1
 
     while queue:
         x, y = queue.popleft()
@@ -20,15 +21,7 @@ def bfs(x, y):
                 if not graph[nx][ny]:
                     graph[nx][ny] = graph[x][y] + 1
                     queue.append((nx, ny))
-graph[sx][sy] = 1
-bfs(sx, sy)
-print(graph)
-print(graph[ex][ey] - 1)
 
-[-1, 5, -1, 4, -1, 4, -1]
-[-1, -1, -1, -1, -1, -1, -1]
-[5, -1, 4, -1, 3, -1, 3]
-[-1, -1, -1, -1, -1, -1, -1]
-[-1, 4, -1, 3, -1, 2, -1]
-[-1, -1, -1, -1, -1, -1, -1]
-[4, -1, 3, -1, 2, -1, 1]
+
+bfs(sx, sy)
+print(graph[ex][ey] - 1)
