@@ -12,6 +12,7 @@ def chk_primarynum(num):
             return False # 소수가 아님
     return True # 소수임
 
+
 def chk_pelindrome(num):
     val = str(num)
     reverse_val = val[::-1]
